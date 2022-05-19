@@ -1,4 +1,20 @@
-# WebDev References
+# General
+
+## Linux
+
+- [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) (freecodecamp)
+
+# Programming Languages
+
+## Python
+
+- [Python Roadmap](https://github.com/millionhz/python-roadmap)
+
+## C++
+
+- [C++ Roadmap](https://github.com/millionhz/cplusplus-roadmap)
+
+# Web Dev
 
 ## SQL
 
