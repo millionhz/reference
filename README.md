@@ -2,7 +2,13 @@
 
 ## Linux
 
-- [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) (freecodecamp)
+- [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) ([video](https://www.youtube.com/watch?v=ZtqBQ68cfJc))
+
+## Git/Github
+
+- [`git config`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+
+- [ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 # Programming Languages
 
@@ -26,4 +32,6 @@
 
 - [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
-## [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+## HTML
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
