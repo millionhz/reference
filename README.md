@@ -4,6 +4,12 @@
 
 - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) ([video](https://www.youtube.com/watch?v=ZtqBQ68cfJc))
 
+## SQL
+
+- [SQL Keyword References](https://www.w3schools.com/sql/sql_ref_keywords.asp)
+
+- [SQLite Docs](https://www.sqlite.org/docs.html)
+
 ## Git/Github
 
 - [`git config`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
@@ -22,12 +28,6 @@
 
 # Web Dev
 
-## SQL
-
-- [SQL Keyword References](https://www.w3schools.com/sql/sql_ref_keywords.asp)
-
-- [SQLite Docs](https://www.sqlite.org/docs.html)
-
 ## [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
 - [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
@@ -35,3 +35,9 @@
 ## HTML
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+## Bootstrap
+
+- [Bootstrap Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+
+- [Cheat Sheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/)
