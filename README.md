@@ -4,6 +4,10 @@
 
 - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) ([video](https://www.youtube.com/watch?v=ZtqBQ68cfJc))
 
+## Data Structures
+
+- [Data Structure Recap](https://www.programiz.com/dsa/data-structure-types)
+
 ## SQL
 
 - [SQL Keyword References](https://www.w3schools.com/sql/sql_ref_keywords.asp)
