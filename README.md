@@ -1,7 +1,5 @@
 # General
 
-- [DevDocs](https://devdocs.io/)
-
 ## Linux
 
 - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) ([video](https://www.youtube.com/watch?v=ZtqBQ68cfJc))
@@ -24,9 +22,15 @@
 
 ## Markdown
 
-- [Cheat Sheet - adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+- [Cheat Sheet by adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+
+## VS Code
+
+- [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 # Programming Languages
+
+- [DevDocs](https://devdocs.io/)
 
 ## Python
 
