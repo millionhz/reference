@@ -1,5 +1,7 @@
 # General
 
+- [DevDocs](https://devdocs.io/)
+
 ## Linux
 
 - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) ([video](https://www.youtube.com/watch?v=ZtqBQ68cfJc))
