@@ -42,13 +42,15 @@
 
 # Web Dev
 
-## [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+## HTTP
 
-- [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [MDN HTTP Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
+- [HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 ## HTML
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
