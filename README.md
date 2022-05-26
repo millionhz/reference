@@ -18,7 +18,7 @@
 
 - [`git config`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
 
-- [ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- [ssh authentication](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 ## Markdown
 
@@ -41,6 +41,8 @@
 - [C++ Roadmap](https://github.com/millionhz/cplusplus-roadmap)
 
 # Web Dev
+
+- [MDN Docs](https://developer.mozilla.org/en-US/docs)
 
 ## HTTP
 
