@@ -1,3 +1,20 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [General](#general)
+  - [Linux](#linux)
+  - [Data Structures](#data-structures)
+  - [SQL](#sql)
+  - [Git/Github](#gitgithub)
+  - [Markdown](#markdown)
+  - [VS Code](#vs-code)
+- [Programming Languages](#programming-languages)
+  - [Python](#python)
+  - [C++](#c)
+- [Web Dev](#web-dev)
+  - [HTTP](#http)
+  - [HTML](#html)
+  - [Bootstrap](#bootstrap)
+
 # General
 
 ## Linux
