@@ -18,6 +18,7 @@
   - [Sass](#sass)
   - [Bootstrap](#bootstrap)
   - [Tailwind CSS](#tailwind-css)
+  - [Color Theory](#color-theory)
   - [JavaScript](#javascript)
   - [PyScript](#pyscript)
 
@@ -102,6 +103,12 @@
 - [Cheat Sheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/)
 
 ## Tailwind CSS
+
+- [Tailwind Docs](https://tailwindcss.com/docs/installation)
+
+## Color Theory
+
+- [Crash Course Color Theory](http://dreamco.com/pima/wp-content/uploads/2017/02/crash-course-in-color-theory.pdf)
 
 ## JavaScript
 
