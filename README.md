@@ -18,9 +18,10 @@
   - [Sass](#sass)
   - [Bootstrap](#bootstrap)
   - [Tailwind CSS](#tailwind-css)
-  - [Color Theory](#color-theory)
   - [JavaScript](#javascript)
   - [PyScript](#pyscript)
+- [Other Stuff](#other-stuff)
+  - [Web Design](#web-design)
 
 # General
 
@@ -106,10 +107,14 @@
 
 - [Tailwind Docs](https://tailwindcss.com/docs/installation)
 
-## Color Theory
-
-- [Crash Course Color Theory](http://dreamco.com/pima/wp-content/uploads/2017/02/crash-course-in-color-theory.pdf)
-
 ## JavaScript
 
 ## PyScript
+
+# Other Stuff
+
+## Web Design
+
+- [9 Principals of Web Design](https://www.feelingpeaky.com/9-principles-of-good-web-design/)
+
+- [Crash Course Color Theory](http://dreamco.com/pima/wp-content/uploads/2017/02/crash-course-in-color-theory.pdf)
