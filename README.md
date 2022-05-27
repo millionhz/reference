@@ -10,10 +10,16 @@
 - [Programming Languages](#programming-languages)
   - [Python](#python)
   - [C++](#c)
-- [Web Dev](#web-dev)
+  - [Solidity](#solidity)
+- [Web Dev Fundamentals](#web-dev-fundamentals)
   - [HTTP](#http)
   - [HTML](#html)
+  - [CSS](#css)
+  - [Sass](#sass)
   - [Bootstrap](#bootstrap)
+  - [Tailwind CSS](#tailwind-css)
+  - [JavaScript](#javascript)
+  - [PyScript](#pyscript)
 
 # General
 
@@ -57,7 +63,15 @@
 
 - [C++ Roadmap](https://github.com/millionhz/cplusplus-roadmap)
 
-# Web Dev
+## Solidity
+
+- [Solidity Notes](https://github.com/millionhz/solidity-notes)
+
+- [Solidity, Blockchain, and Smart Contract Course – Python - freeCodeCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
+
+- [Solidity, Blockchain, and Smart Contract Course – Javascript - freeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+
+# Web Dev Fundamentals
 
 - [MDN Docs](https://developer.mozilla.org/en-US/docs)
 
@@ -73,8 +87,22 @@
 
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
+## CSS
+
+## Sass
+
+- [Sass Crash Course - Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
+
+- [Sass Crash Course - dev.to](https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2)
+
 ## Bootstrap
 
 - [Bootstrap Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
 - [Cheat Sheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/)
+
+## Tailwind CSS
+
+## JavaScript
+
+## PyScript
