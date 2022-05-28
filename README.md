@@ -63,6 +63,8 @@
 
 ## JavaScript
 
+- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
 - [JavaScript Reference](https://github.com/millionhz/javascript-reference)
 
 ## C++
