@@ -63,9 +63,11 @@
 
 ## JavaScript
 
-- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-- [JavaScript Reference](https://github.com/millionhz/javascript-reference)
+- [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript#reference)
+
+- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (beginners)
 
 ## C++
 
