@@ -63,9 +63,11 @@
 
 ## JavaScript
 
-- [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 - [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript#reference)
+
+- [Events Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+
+- [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (beginners)
 
