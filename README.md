@@ -9,6 +9,7 @@
   - [VS Code](#vs-code)
 - [Programming Languages](#programming-languages)
   - [Python](#python)
+  - [JavaScript](#javascript)
   - [C++](#c)
   - [Solidity](#solidity)
 - [Web Dev Fundamentals](#web-dev-fundamentals)
@@ -18,7 +19,6 @@
   - [Sass](#sass)
   - [Bootstrap](#bootstrap)
   - [Tailwind CSS](#tailwind-css)
-  - [JavaScript](#javascript)
   - [PyScript](#pyscript)
 - [Other Stuff](#other-stuff)
   - [Web Design](#web-design)
@@ -60,6 +60,10 @@
 ## Python
 
 - [Python Reference](https://github.com/millionhz/python-reference)
+
+## JavaScript
+
+- [JavaScript Reference](https://github.com/millionhz/javascript-reference)
 
 ## C++
 
@@ -106,8 +110,6 @@
 ## Tailwind CSS
 
 - [Tailwind Docs](https://tailwindcss.com/docs/installation)
-
-## JavaScript
 
 ## PyScript
 
