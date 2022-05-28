@@ -59,7 +59,7 @@
 
 ## Python
 
-- [Python Roadmap](https://github.com/millionhz/python-roadmap)
+- [Python Reference](https://github.com/millionhz/python-reference)
 
 ## C++
 
