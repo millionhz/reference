@@ -70,6 +70,8 @@
 
 - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (basics)
 
+- [ESLint Config](https://eslint.org/demo) ([tutorial](https://medium.com/wearelaika/javascript-eslint-global-configuration-setup-vscode-599cbfc81eb5))
+
 ## C++
 
 - [C++ Roadmap](https://github.com/millionhz/cplusplus-roadmap)
