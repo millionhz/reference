@@ -15,6 +15,7 @@
 - [Web Dev Fundamentals](#web-dev-fundamentals)
   - [HTTP](#http)
   - [HTML](#html)
+  - [Web APIs](#web-apis)
   - [CSS](#css)
   - [Sass](#sass)
   - [Bootstrap](#bootstrap)
@@ -65,11 +66,9 @@
 
 - [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript#reference)
 
-- [Events Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
-
 - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (beginners)
+- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (basics)
 
 ## C++
 
@@ -99,7 +98,17 @@
 
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
+## Web APIs
+
+- [MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+
+- [Events Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+
+- [MDN DOM Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
 ## CSS
+
+- [MDN CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Sass
 
