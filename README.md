@@ -64,7 +64,7 @@
 
 ## JavaScript
 
-- [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript#reference)
+- [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript#reference)
 
 - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -96,7 +96,7 @@
 
 ## HTML
 
-- [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [MDN HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML#reference)
 
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
@@ -106,7 +106,7 @@
 
 - [HTML DOM - w3schools](https://www.w3schools.com/js/js_htmldom.asp)
 
-- [Events Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+- [MDN Events Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 
 ## CSS
 
