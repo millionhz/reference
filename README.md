@@ -16,6 +16,7 @@
   - [HTTP](#http)
   - [HTML](#html)
   - [DOM & Events](#dom--events)
+  - [Events](#events)
   - [CSS](#css)
   - [Sass](#sass)
   - [Bootstrap](#bootstrap)
@@ -105,6 +106,10 @@
 - [Intro to DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 - [HTML DOM - w3schools](https://www.w3schools.com/js/js_htmldom.asp)
+
+- Dom Crash Course - Traversy Media ([part1](https://www.youtube.com/watch?v=0ik6X4DJKCc)) ([part2](https://www.youtube.com/watch?v=mPd2aJXCZ2g)) ([part3](https://www.youtube.com/watch?v=wK2cBMcDTss)) ([part4](https://www.youtube.com/watch?v=i37KVt_IcXw))
+
+## Events
 
 - [MDN Events Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 
