@@ -15,7 +15,7 @@
 - [Web Dev Fundamentals](#web-dev-fundamentals)
   - [HTTP](#http)
   - [HTML](#html)
-  - [Web APIs](#web-apis)
+  - [DOM & Events](#dom--events)
   - [CSS](#css)
   - [Sass](#sass)
   - [Bootstrap](#bootstrap)
@@ -68,7 +68,7 @@
 
 - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (basics)
+- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (overview)
 
 - [ESLint Config](https://eslint.org/demo) ([tutorial](https://medium.com/wearelaika/javascript-eslint-global-configuration-setup-vscode-599cbfc81eb5))
 
@@ -100,13 +100,13 @@
 
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
-## Web APIs
+## DOM & Events
 
-- [MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+- [Intro to DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
+- [HTML DOM - w3schools](https://www.w3schools.com/js/js_htmldom.asp)
 
 - [Events Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
-
-- [MDN DOM Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 ## CSS
 
