@@ -10,6 +10,7 @@
 - [Programming Languages](#programming-languages)
   - [Python](#python)
   - [JavaScript](#javascript)
+  - [Node](#node)
   - [C++](#c)
   - [Solidity](#solidity)
 - [Web Dev Fundamentals](#web-dev-fundamentals)
@@ -76,6 +77,12 @@
 - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (overview)
 
 - [ESLint Config](https://eslint.org/demo) ([tutorial](https://medium.com/wearelaika/javascript-eslint-global-configuration-setup-vscode-599cbfc81eb5))
+
+## Node
+
+- [Node Reference](https://nodejs.org/api/)
+
+- [Node Built-In Globals](https://nodejs.org/en/knowledge/getting-started/globals-in-node-js/)
 
 ## C++
 
