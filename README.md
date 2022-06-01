@@ -31,6 +31,8 @@
 
 - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) ([video](https://www.youtube.com/watch?v=ZtqBQ68cfJc))
 
+- [Linuxize](https://linuxize.com/)
+
 ## Data Structures
 
 - [Data Structure Recap](https://www.programiz.com/dsa/data-structure-types)
