@@ -49,6 +49,8 @@
 
 - [ssh authentication](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
+- [gitignore.io](https://www.toptal.com/developers/gitignore)
+
 ## Markdown
 
 - [Cheat Sheet by adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
