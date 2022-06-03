@@ -23,6 +23,9 @@
   - [Bootstrap](#bootstrap)
   - [Tailwind CSS](#tailwind-css)
   - [PyScript](#pyscript)
+- [Web Development Modules](#web-development-modules)
+  - [Formatting & Linting](#formatting--linting)
+  - [Live Reload](#live-reload)
 - [Other Stuff](#other-stuff)
   - [Web Design](#web-design)
 
@@ -75,8 +78,6 @@
 - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (overview)
-
-- [ESLint Config](https://eslint.org/demo) ([tutorial](https://medium.com/wearelaika/javascript-eslint-global-configuration-setup-vscode-599cbfc81eb5))
 
 ## Node
 
@@ -147,6 +148,21 @@
 - [Tailwind Docs](https://tailwindcss.com/docs/installation)
 
 ## PyScript
+
+# Web Development Modules
+
+## Formatting & Linting
+
+- prettier
+
+- eslint
+
+## Live Reload
+
+- nodemon
+  - use config to set environment variables during development
+
+- parcel
 
 # Other Stuff
 
