@@ -24,6 +24,7 @@
   - [Tailwind CSS](#tailwind-css)
   - [PyScript](#pyscript)
 - [Web Development Modules](#web-development-modules)
+  - [Template Engines](#template-engines)
   - [Formatting & Linting](#formatting--linting)
   - [Live Reload](#live-reload)
 - [Other Stuff](#other-stuff)
@@ -150,6 +151,10 @@
 ## PyScript
 
 # Web Development Modules
+
+## Template Engines
+
+- [EJS](https://ejs.co/#docs)
 
 ## Formatting & Linting
 
