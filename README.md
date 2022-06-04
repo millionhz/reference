@@ -133,6 +133,8 @@
 
 - [MDN CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+- [CSS Pseudo Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+
 ## Sass
 
 - [Sass Crash Course - Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
