@@ -157,6 +157,8 @@
 
 - [Express](https://expressjs.com/)
 
+- [Express Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
+
 ## Template Engines
 
 - [EJS](https://ejs.co/#docs)
