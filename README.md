@@ -16,8 +16,9 @@
 - [Web Dev Fundamentals](#web-dev-fundamentals)
   - [HTTP](#http)
   - [HTML](#html)
-  - [DOM & Events](#dom--events)
+  - [DOM](#dom)
   - [Events](#events)
+  - [Web APIs](#web-apis)
   - [CSS](#css)
   - [Sass](#sass)
   - [Bootstrap](#bootstrap)
@@ -115,7 +116,7 @@
 
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
-## DOM & Events
+## DOM
 
 - [Intro to DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
@@ -128,6 +129,10 @@
 ## Events
 
 - [MDN Events Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+
+## Web APIs
+
+- [MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
 ## CSS
 
