@@ -3,7 +3,6 @@
 - [General](#general)
   - [Linux](#linux)
   - [Data Structures](#data-structures)
-  - [SQL](#sql)
   - [Git/Github](#gitgithub)
   - [Markdown](#markdown)
   - [VS Code](#vs-code)
@@ -13,6 +12,9 @@
   - [Node](#node)
   - [C++](#c)
   - [Solidity](#solidity)
+- [Databases](#databases)
+  - [SQL](#sql)
+  - [MongoDB](#mongodb)
 - [Web Dev Fundamentals](#web-dev-fundamentals)
   - [HTTP](#http)
   - [HTML](#html)
@@ -27,6 +29,7 @@
 - [Web Development Modules](#web-development-modules)
   - [Backend Framework](#backend-framework)
   - [Template Engines](#template-engines)
+  - [Database ORM](#database-orm)
   - [Formatting & Linting](#formatting--linting)
   - [Live Reload](#live-reload)
 - [Other Stuff](#other-stuff)
@@ -43,12 +46,6 @@
 ## Data Structures
 
 - [Data Structure Recap](https://www.programiz.com/dsa/data-structure-types)
-
-## SQL
-
-- [SQL Keyword References](https://www.w3schools.com/sql/sql_ref_keywords.asp)
-
-- [SQLite Docs](https://www.sqlite.org/docs.html)
 
 ## Git/Github
 
@@ -99,6 +96,20 @@
 - [Solidity, Blockchain, and Smart Contract Course – Python - freeCodeCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
 - [Solidity, Blockchain, and Smart Contract Course – Javascript - freeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+
+# Databases
+
+## SQL
+
+- [SQL Keyword References](https://www.w3schools.com/sql/sql_ref_keywords.asp)
+
+- [SQLite Docs](https://www.sqlite.org/docs.html)
+
+## MongoDB
+
+- [MongoDB CRUD](https://www.mongodb.com/docs/manual/crud/)
+
+- [MongoDB `mongosh` reference](https://www.mongodb.com/docs/manual/reference/method/)
 
 # Web Dev Fundamentals
 
@@ -164,13 +175,21 @@
 
 ## Backend Framework
 
-- [Express](https://expressjs.com/)
+- [Express](https://expressjs.com/) 
+  
+  - [Reference](https://expressjs.com/en/5x/api.html)
 
-- [Express Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
+  - [Guides](https://expressjs.com/en/guide/routing.html)
+
+  - [Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
 
 ## Template Engines
 
 - [EJS](https://ejs.co/#docs)
+
+## Database ORM
+
+- [Mongoose Guides](https://mongoosejs.com/docs/guides.html)
 
 ## Formatting & Linting
 
