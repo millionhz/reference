@@ -99,6 +99,8 @@
 
 # Databases
 
+- [Database Design Course - freeCodeCamp](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+
 ## SQL
 
 - [SQL Keyword References](https://www.w3schools.com/sql/sql_ref_keywords.asp)
