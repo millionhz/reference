@@ -207,6 +207,9 @@
 
 - [dotenv](https://www.npmjs.com/package/dotenv) - environment variable utility
 
+- Also see:
+  - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
+
 # Other Stuff
 
 ## Web Design
