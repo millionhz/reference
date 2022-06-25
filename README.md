@@ -30,8 +30,8 @@
   - [Backend Framework](#backend-framework)
   - [Template Engines](#template-engines)
   - [Database ORM](#database-orm)
-  - [Formatting & Linting](#formatting--linting)
-  - [Live Reload](#live-reload)
+  - [Linting](#linting)
+  - [Other Modules](#other-modules)
 - [Other Stuff](#other-stuff)
   - [Web Design](#web-design)
 
@@ -191,22 +191,21 @@
 
 ## Database ORM
 
-- Mongoose for MongoDB
+- Mongoose (MongoDB) - [Guides](https://mongoosejs.com/docs/guides.html)
 
-  - [Mongoose Guides](https://mongoosejs.com/docs/guides.html)
+## Linting
 
-## Formatting & Linting
+- [eslint](https://eslint.org/) - linter
 
-- prettier
+- [wesbos eslint config](https://github.com/wesbos/eslint-config-wesbos)
 
-- eslint
+## Other Modules
 
-## Live Reload
+- [prettier](https://prettier.io/) - formatter
 
-- nodemon
-  - use config to set environment variables during development
+- [nodemon](https://www.npmjs.com/package/nodemon) - live reload for node
 
-- parcel
+- [dotenv](https://www.npmjs.com/package/dotenv) - environment variable utility
 
 # Other Stuff
 
