@@ -25,7 +25,6 @@
   - [Sass](#sass)
   - [Bootstrap](#bootstrap)
   - [Tailwind CSS](#tailwind-css)
-  - [PyScript](#pyscript)
 - [Web Development Modules](#web-development-modules)
   - [Backend Framework](#backend-framework)
   - [Template Engines](#template-engines)
@@ -170,8 +169,6 @@
 ## Tailwind CSS
 
 - [Tailwind Docs](https://tailwindcss.com/docs/installation)
-
-## PyScript
 
 # Web Development Modules
 
