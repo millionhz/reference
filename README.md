@@ -22,13 +22,11 @@
   - [Events](#events)
   - [Web APIs](#web-apis)
   - [CSS](#css)
-  - [Sass](#sass)
-  - [Bootstrap](#bootstrap)
-  - [Tailwind CSS](#tailwind-css)
 - [Web Development Modules](#web-development-modules)
   - [Backend Framework](#backend-framework)
   - [Template Engines](#template-engines)
   - [Database ORM](#database-orm)
+  - [CSS Frameworks](#css-frameworks)
   - [Linting](#linting)
   - [Other Modules](#other-modules)
 - [Other Stuff](#other-stuff)
@@ -154,22 +152,6 @@
 
 - [CSS Pseudo Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
-## Sass
-
-- [Sass Crash Course - Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
-
-- [Sass Crash Course - dev.to](https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2)
-
-## Bootstrap
-
-- [Bootstrap Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-
-- [Cheat Sheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/)
-
-## Tailwind CSS
-
-- [Tailwind Docs](https://tailwindcss.com/docs/installation)
-
 # Web Development Modules
 
 ## Backend Framework
@@ -188,7 +170,27 @@
 
 ## Database ORM
 
-- Mongoose (MongoDB) - [Guides](https://mongoosejs.com/docs/guides.html)
+- Mongoose (MongoDB)
+
+  - [Guides](https://mongoosejs.com/docs/guides.html)
+
+## CSS Frameworks
+
+- Bootstrap
+
+  - [ Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+
+  - [Cheat Sheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/)
+
+- Tailwind
+
+  - [Docs](https://tailwindcss.com/docs/installation)
+
+- SASS
+
+  - [Sass Crash Course - Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
+
+  - [Sass Crash Course - dev.to](https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2)
 
 ## Linting
 
