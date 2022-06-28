@@ -25,7 +25,7 @@
 - [Web Development Modules](#web-development-modules)
   - [Backend Framework](#backend-framework)
   - [Template Engines](#template-engines)
-  - [Database ORM](#database-orm)
+  - [Database Utils](#database-utils)
   - [CSS Frameworks](#css-frameworks)
   - [Linting](#linting)
   - [Other Modules](#other-modules)
@@ -168,7 +168,7 @@
 
 - [EJS](https://ejs.co/#docs)
 
-## Database ORM
+## Database Utils
 
 - Mongoose (MongoDB)
 
