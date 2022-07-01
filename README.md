@@ -178,7 +178,7 @@
 
 - Bootstrap
 
-  - [ Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+  - [Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
   - [Cheat Sheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/)
 
