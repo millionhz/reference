@@ -23,6 +23,7 @@
   - [Web APIs](#web-apis)
   - [CSS](#css)
 - [Web Development Modules](#web-development-modules)
+  - [Package Managers](#package-managers)
   - [Backend Framework](#backend-framework)
   - [Template Engines](#template-engines)
   - [Database Utils](#database-utils)
@@ -153,6 +154,14 @@
 - [CSS Pseudo Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
 # Web Development Modules
+
+## Package Managers
+
+- npm
+
+  - [`package.json`](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
+
+- yarn
 
 ## Backend Framework
 
