@@ -24,7 +24,7 @@
   - [CSS](#css)
 - [Web Development Modules](#web-development-modules)
   - [Package Managers](#package-managers)
-  - [Backend Framework](#backend-framework)
+  - [Express JS](#express-js)
   - [Template Engines](#template-engines)
   - [Database Utils](#database-utils)
   - [CSS Frameworks](#css-frameworks)
@@ -163,19 +163,23 @@
 
 - [yarn](https://yarnpkg.com/)
 
-## Backend Framework
+## [Express JS](https://expressjs.com/)
 
-- [Express](https://expressjs.com/) 
-  
-  - [Reference](https://expressjs.com/en/5x/api.html)
+- [Reference](https://expressjs.com/en/5x/api.html)
 
-  - [Guides](https://expressjs.com/en/guide/routing.html)
+- [Basics](https://expressjs.com/en/starter/installing.html), [Guides](https://expressjs.com/en/guide/routing.html) and [Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
 
-  - [Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
+- [Middleware](https://expressjs.com/en/resources/middleware.html)
+
+-  [Utility Functions](https://expressjs.com/en/resources/utils.html) (low level)
+
+- [Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
 
 ## Template Engines
 
 - [EJS](https://ejs.co/#docs)
+
+- [Handlebars](https://handlebarsjs.com/)
 
 ## Database Utils
 
