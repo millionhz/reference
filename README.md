@@ -157,11 +157,11 @@
 
 ## Package Managers
 
-- npm
+- [npm](https://docs.npmjs.com/)
 
   - [`package.json`](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
 
-- yarn
+- [yarn](https://yarnpkg.com/)
 
 ## Backend Framework
 
@@ -179,23 +179,17 @@
 
 ## Database Utils
 
-- Mongoose (MongoDB)
-
-  - [Guides](https://mongoosejs.com/docs/guides.html)
+- [Mongoose](https://mongoosejs.com/docs/guides.html) (MongoDB)
 
 ## CSS Frameworks
 
-- Bootstrap
-
-  - [Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+- [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
   - [Cheat Sheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/)
 
-- Tailwind
+- [Tailwind](https://tailwindcss.com/docs/installation)
 
-  - [Docs](https://tailwindcss.com/docs/installation)
-
-- SASS
+- [SASS](https://sass-lang.com/)
 
   - [Sass Crash Course - Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
 
@@ -203,17 +197,17 @@
 
 ## Linting
 
-- [eslint](https://eslint.org/) - linter
+- [eslint](https://eslint.org/)
 
 - [wesbos eslint config](https://github.com/wesbos/eslint-config-wesbos)
 
 ## Other Modules
 
-- [prettier](https://prettier.io/) - formatter
-
-- [nodemon](https://www.npmjs.com/package/nodemon) - live reload for node
-
-- [dotenv](https://www.npmjs.com/package/dotenv) - environment variable utility
+| Module | Functionality |
+| --- | -- |
+| [prettier](https://prettier.io/) | code formatting |
+| [nodemon](https://www.npmjs.com/package/nodemon) | live reload for node |
+| [dotenv](https://www.npmjs.com/package/dotenv) | environment variable utility |
 
 - Also see:
   - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
