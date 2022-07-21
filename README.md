@@ -28,6 +28,7 @@
   - [Template Engines](#template-engines)
   - [Database Utils](#database-utils)
   - [CSS Frameworks](#css-frameworks)
+  - [ReactJS](#reactjs)
   - [Linting](#linting)
   - [Other Modules](#other-modules)
 - [Other Stuff](#other-stuff)
@@ -53,6 +54,8 @@
 
 - [gitignore.io](https://www.toptal.com/developers/gitignore)
 
+- [gitignore patterns](https://linuxize.com/post/gitignore-ignoring-files-in-git/)
+
 ## Markdown
 
 - [Cheat Sheet by adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
@@ -75,8 +78,7 @@
 
 - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (overview)
-
+- [Intro to ES6](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI) (Codexpanse - YouTube)
 ## Node
 
 - [Node Reference](https://nodejs.org/api/)
@@ -198,6 +200,12 @@
   - [Sass Crash Course - Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
 
   - [Sass Crash Course - dev.to](https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2)
+
+## ReactJS
+
+- JSX
+  - [Intro](https://reactjs.org/docs/introducing-jsx.html)
+  - [In-Depth](https://reactjs.org/docs/jsx-in-depth.html)
 
 ## Linting
 
