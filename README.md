@@ -79,6 +79,13 @@
 - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 - [Intro to ES6](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI) (Codexpanse - YouTube)
+
+- Other Topics
+
+  - [Tasks and MicroTasks](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+
+  - [What the hell is `this`](https://www.section.io/engineering-education/how-to-use-javascript-arrow-functions-and-this-keyword/#:~:text=Arrow%20function%20and%20this%20context)
+
 ## Node
 
 - [Node Reference](https://nodejs.org/api/)
@@ -143,6 +150,8 @@
 
 - [MDN Events Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 
+- [Event API](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+
 ## Web APIs
 
 - [MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
@@ -203,9 +212,9 @@
 
 ## ReactJS
 
-- JSX
-  - [Intro](https://reactjs.org/docs/introducing-jsx.html)
-  - [In-Depth](https://reactjs.org/docs/jsx-in-depth.html)
+- [Introduction](https://reactjs.org/docs/hello-world.html)
+
+- [Airbnb react style guide](https://github.com/airbnb/javascript/tree/master/react)
 
 ## Linting
 
