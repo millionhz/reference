@@ -31,8 +31,7 @@
   - [ReactJS](#reactjs)
   - [Linting](#linting)
   - [Other Modules](#other-modules)
-- [Other Stuff](#other-stuff)
-  - [Web Design](#web-design)
+- [Cool HTML Elements](#cool-html-elements)
 
 # General
 
@@ -212,7 +211,9 @@
 
 ## ReactJS
 
-- [Introduction](https://reactjs.org/docs/hello-world.html)
+- [Docs](https://reactjs.org/docs/getting-started.html)
+
+- [`react-devtools`](https://github.com/facebook/react/tree/main/packages/react-devtools)
 
 - [Airbnb react style guide](https://github.com/airbnb/javascript/tree/master/react)
 
@@ -233,10 +234,7 @@
 - Also see:
   - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
 
-# Other Stuff
+# Cool HTML Elements
 
-## Web Design
-
-- [9 Principals of Web Design](https://www.feelingpeaky.com/9-principles-of-good-web-design/)
-
-- [Crash Course Color Theory](http://dreamco.com/pima/wp-content/uploads/2017/02/crash-course-in-color-theory.pdf)
+- [`<fieldset>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset)
+- [`dl`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)
