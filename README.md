@@ -28,7 +28,8 @@
   - [Template Engines](#template-engines)
   - [Database Utils](#database-utils)
   - [CSS Frameworks](#css-frameworks)
-  - [ReactJS](#reactjs)
+  - [ReactJs](#reactjs)
+  - [UI Component Libraries](#ui-component-libraries)
   - [Linting](#linting)
   - [Other Modules](#other-modules)
 - [Cool HTML Elements](#cool-html-elements)
@@ -209,13 +210,17 @@
 
   - [Sass Crash Course - dev.to](https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2)
 
-## ReactJS
+## ReactJs
 
 - [Docs](https://reactjs.org/docs/getting-started.html)
 
 - [`react-devtools`](https://github.com/facebook/react/tree/main/packages/react-devtools)
 
 - [Airbnb react style guide](https://github.com/airbnb/javascript/tree/master/react)
+
+## UI Component Libraries
+
+- [Material UI](https://mui.com/)
 
 ## Linting
 
