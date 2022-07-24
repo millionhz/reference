@@ -32,7 +32,6 @@
   - [UI Component Libraries](#ui-component-libraries)
   - [Linting](#linting)
   - [Other Modules](#other-modules)
-- [Cool HTML Elements](#cool-html-elements)
 
 # General
 
@@ -75,8 +74,6 @@
 ## JavaScript
 
 - [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript#reference)
-
-- [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 - [Intro to ES6](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI) (Codexpanse - YouTube)
 
@@ -135,6 +132,11 @@
 - [MDN HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML#reference)
 
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+
+- Cool HTML Elements
+
+  - [`<fieldset>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset)
+  - [`dl`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)
 
 ## DOM
 
@@ -238,8 +240,3 @@
 
 - Also see:
   - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
-
-# Cool HTML Elements
-
-- [`<fieldset>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset)
-- [`dl`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)
