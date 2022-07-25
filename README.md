@@ -83,6 +83,8 @@
 
   - [What the hell is `this`](https://www.section.io/engineering-education/how-to-use-javascript-arrow-functions-and-this-keyword/#:~:text=Arrow%20function%20and%20this%20context)
 
+  - [Lazy Evaluation](https://thoughts.travelperk.com/optimizing-js-with-lazy-evaluation-and-memoization-9d0cd8c30cd4)
+
 ## Node
 
 - [Node Reference](https://nodejs.org/api/)
