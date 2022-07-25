@@ -219,9 +219,7 @@
 
 - [Docs](https://reactjs.org/docs/getting-started.html)
 
-- [`react-devtools`](https://github.com/facebook/react/tree/main/packages/react-devtools)
-
-- [Airbnb react style guide](https://github.com/airbnb/javascript/tree/master/react)
+- [Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
 ## UI Component Libraries
 
