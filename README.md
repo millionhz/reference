@@ -32,6 +32,7 @@
   - [UI Component Libraries](#ui-component-libraries)
   - [Linting](#linting)
   - [Other Modules](#other-modules)
+- [Programing Concepts](#programing-concepts)
 
 # General
 
@@ -242,3 +243,7 @@
 
 - Also see:
   - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
+
+# Programing Concepts
+
+- [Memonization](https://www.freecodecamp.org/news/memoization-in-javascript-and-react/)
