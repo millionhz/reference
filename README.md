@@ -48,6 +48,8 @@
 
 ## Git/Github
 
+- [Guide - atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
 - [`git config`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
 
 - [ssh authentication](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
