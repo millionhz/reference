@@ -153,7 +153,19 @@
 
 - [jQuery Docs](https://api.jquery.com/)
 
-- [`document` API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+- [Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+
+- [Window API](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+
+- Other APIs
+
+  - Element
+
+  - HTMLElement
+
+  - Event Target
+
+  - Node
 
 ## Events
 
