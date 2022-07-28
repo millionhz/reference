@@ -153,6 +153,8 @@
 
 - [jQuery Docs](https://api.jquery.com/)
 
+- [`document` API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+
 ## Events
 
 - [MDN Events Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
