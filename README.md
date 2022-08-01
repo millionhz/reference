@@ -163,13 +163,11 @@
 
 - Other APIs
 
-  - Element
-
-  - HTMLElement
-
-  - Event Target
-
   - Node
+  - EventTarget
+  - Element
+  - HTMLElement
+  - HTMLFormElement
 
 ## Events
 
