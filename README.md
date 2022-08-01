@@ -80,6 +80,8 @@
 
 - [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript#reference)
 
+- [`this`](https://www.w3schools.com/js/js_this.asp) keyword
+
 - [Intro to ES6](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI) (Codexpanse - YouTube)
 
 - Other Topics
