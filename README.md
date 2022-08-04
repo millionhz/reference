@@ -22,16 +22,19 @@
   - [Events](#events)
   - [Web APIs](#web-apis)
   - [CSS](#css)
-- [Web Development Modules](#web-development-modules)
+- [Node Modules](#node-modules)
   - [Package Managers](#package-managers)
+  - [Linting & Formatting](#linting--formatting)
+- [Backend Modules](#backend-modules)
   - [Express JS](#express-js)
   - [Template Engines](#template-engines)
   - [Database Utils](#database-utils)
-  - [CSS Frameworks](#css-frameworks)
+  - [Authentication](#authentication)
+  - [Other Modules](#other-modules)
+- [Frontend Modules](#frontend-modules)
   - [ReactJs](#reactjs)
   - [UI Component Libraries](#ui-component-libraries)
-  - [Linting](#linting)
-  - [Other Modules](#other-modules)
+  - [CSS Frameworks](#css-frameworks)
 - [Other Stuff](#other-stuff)
   - [Programing Concepts](#programing-concepts)
   - [UI Design Resources](#ui-design-resources)
@@ -189,7 +192,7 @@
 
 - [CSS Pseudo Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
-# Web Development Modules
+# Node Modules
 
 ## Package Managers
 
@@ -198,6 +201,16 @@
   - [`package.json`](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
 
 - [yarn](https://yarnpkg.com/)
+
+## Linting & Formatting
+
+- [prettier](https://prettier.io/)
+
+- [eslint](https://eslint.org/)
+
+- [wesbos eslint config](https://github.com/wesbos/eslint-config-wesbos)
+
+# Backend Modules
 
 ## [Express JS](https://expressjs.com/)
 
@@ -208,6 +221,8 @@
 - [Middleware](https://expressjs.com/en/resources/middleware.html)
 
 -  [Utility Functions](https://expressjs.com/en/resources/utils.html) (low level)
+
+- [`express-generator`](https://expressjs.com/en/starter/generator.html)
 
 - [Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
 
@@ -220,6 +235,49 @@
 ## Database Utils
 
 - [Mongoose](https://mongoosejs.com/docs/guides.html) (MongoDB)
+
+## Authentication
+
+- [`express-session`](https://www.npmjs.com/package/express-session)
+
+- [`passport`](https://www.npmjs.com/package/passport)
+
+  - [Docs](https://github.com/jwalton/passport-api-docs)
+
+  - [Tutorial](https://levelup.gitconnected.com/everything-you-need-to-know-about-the-passport-local-passport-js-strategy-633bbab6195)
+
+- [`connect-ensure-login`](https://www.npmjs.com/package/connect-ensure-login)
+
+
+## Other Modules
+
+| Module | Functionality |
+| --- | -- |
+| [http-errors](https://www.npmjs.com/package/http-errors) | http error utility for express |
+| [debug](https://www.npmjs.com/package/debug) | debug logging utility |
+| [morgan](https://expressjs.com/en/resources/middleware/morgan.html) | http request logger |
+| [cookie-parser](https://expressjs.com/en/resources/middleware/cookie-parser.html) | cookie parsing utility for express |
+| [cookie-session](https://expressjs.com/en/resources/middleware/cookie-session.html) | cookie based sessions |
+| [multer](https://expressjs.com/en/resources/middleware/multer.html) | blob form data |
+| [nodemon](https://www.npmjs.com/package/nodemon) | live reload for node |
+| [dotenv](https://www.npmjs.com/package/dotenv) | environment variable utility |
+
+- Also see:
+  - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
+
+# Frontend Modules
+
+## ReactJs
+
+- [Docs](https://reactjs.org/docs/getting-started.html)
+
+- [Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+
+- [React Router](https://reactrouter.com/)
+
+## UI Component Libraries
+
+- [Material UI](https://mui.com/)
 
 ## CSS Frameworks
 
@@ -234,33 +292,6 @@
   - [Sass Crash Course - Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
 
   - [Sass Crash Course - dev.to](https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2)
-
-## ReactJs
-
-- [Docs](https://reactjs.org/docs/getting-started.html)
-
-- [Style Guide](https://github.com/airbnb/javascript/tree/master/react)
-
-## UI Component Libraries
-
-- [Material UI](https://mui.com/)
-
-## Linting
-
-- [eslint](https://eslint.org/)
-
-- [wesbos eslint config](https://github.com/wesbos/eslint-config-wesbos)
-
-## Other Modules
-
-| Module | Functionality |
-| --- | -- |
-| [prettier](https://prettier.io/) | code formatting |
-| [nodemon](https://www.npmjs.com/package/nodemon) | live reload for node |
-| [dotenv](https://www.npmjs.com/package/dotenv) | environment variable utility |
-
-- Also see:
-  - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
 
 # Other Stuff
 
