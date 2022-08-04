@@ -240,7 +240,7 @@
 
 - [`express-session`](https://www.npmjs.com/package/express-session)
 
-- [`passport`](https://www.npmjs.com/package/passport)
+- [Passport](https://www.npmjs.com/package/passport)
 
   - [Docs](https://github.com/jwalton/passport-api-docs)
 
@@ -259,6 +259,7 @@
 | [cookie-parser](https://expressjs.com/en/resources/middleware/cookie-parser.html) | cookie parsing utility for express |
 | [cookie-session](https://expressjs.com/en/resources/middleware/cookie-session.html) | cookie based sessions |
 | [multer](https://expressjs.com/en/resources/middleware/multer.html) | blob form data |
+| [validator](https://www.npmjs.com/package/validator) | input validation | 
 | [nodemon](https://www.npmjs.com/package/nodemon) | live reload for node |
 | [dotenv](https://www.npmjs.com/package/dotenv) | environment variable utility |
 
