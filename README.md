@@ -281,9 +281,7 @@
 
 ## CSS Frameworks
 
-- [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-
-  - [Cheat Sheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/)
+- [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) ([Cheat Sheet](https://getbootstrap.com/docs/5.2/examples/cheatsheet/))
 
 - [Tailwind](https://tailwindcss.com/docs/installation)
 
