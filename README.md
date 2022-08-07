@@ -83,6 +83,10 @@
 
 - [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript#reference)
 
+- [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+- [MDN Javascript OOP](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects) ([prototype](https://www.w3schools.com/js/js_object_prototypes.asp))
+
 - [`this`](https://www.w3schools.com/js/js_this.asp) keyword
 
 - [`call()`, `apply()` & `bind()`](https://betterprogramming.pub/when-to-use-bind-call-and-apply-in-javascript-1ae9d7fa66d5)
