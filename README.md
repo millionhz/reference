@@ -85,7 +85,11 @@
 
 - [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-- [MDN Javascript OOP](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects) ([prototype](https://www.w3schools.com/js/js_object_prototypes.asp))
+- Object Oriented Programming
+
+  - [Overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects) 
+
+  - [ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
 - [`this`](https://www.w3schools.com/js/js_this.asp) keyword
 
