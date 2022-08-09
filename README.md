@@ -175,6 +175,8 @@
 
 - [Window API](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 
+- [Navigator API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator)
+
 - Other APIs
 
   - Node
