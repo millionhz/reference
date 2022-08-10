@@ -25,6 +25,7 @@
 - [Node Modules](#node-modules)
   - [Package Managers](#package-managers)
   - [Linting & Formatting](#linting--formatting)
+  - [Transpiling](#transpiling)
 - [Backend Modules](#backend-modules)
   - [Express JS](#express-js)
   - [Template Engines](#template-engines)
@@ -32,6 +33,7 @@
   - [Authentication](#authentication)
   - [Other Modules](#other-modules)
 - [Frontend Modules](#frontend-modules)
+  - [Bundler](#bundler)
   - [ReactJs](#reactjs)
   - [UI Component Libraries](#ui-component-libraries)
   - [CSS Frameworks](#css-frameworks)
@@ -207,9 +209,9 @@
 
 ## Package Managers
 
-- [npm](https://docs.npmjs.com/)
+- [`package.json`](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
 
-  - [`package.json`](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
+- [npm](https://docs.npmjs.com/)
 
 - [yarn](https://yarnpkg.com/)
 
@@ -220,6 +222,10 @@
 - [eslint](https://eslint.org/)
 
 - [wesbos eslint config](https://github.com/wesbos/eslint-config-wesbos)
+
+## Transpiling
+
+- [babel](https://babeljs.io/)
 
 # Backend Modules
 
@@ -272,12 +278,20 @@
 | [multer](https://expressjs.com/en/resources/middleware/multer.html) | blob form data |
 | [validator](https://www.npmjs.com/package/validator) | input validation | 
 | [nodemon](https://www.npmjs.com/package/nodemon) | live reload for node |
+| [concurrently](https://www.npmjs.com/package/concurrently) | run commands concurrently |
 | [dotenv](https://www.npmjs.com/package/dotenv) | environment variable utility |
 
 - Also see:
   - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
 
 # Frontend Modules
+
+## Bundler
+
+- [webpack](https://webpack.js.org/)
+
+- [parcel](https://parceljs.org/)
+
 
 ## ReactJs
 
