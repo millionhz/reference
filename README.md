@@ -172,6 +172,8 @@
 
 - Dom Crash Course - Traversy Media ([part1](https://www.youtube.com/watch?v=0ik6X4DJKCc)) ([part2](https://www.youtube.com/watch?v=mPd2aJXCZ2g)) ([part3](https://www.youtube.com/watch?v=wK2cBMcDTss)) ([part4](https://www.youtube.com/watch?v=i37KVt_IcXw))
 
+- [Javascript DOM Manipulation - freeCodeCamp](https://www.youtube.com/watch?v=5fb2aPlgoys)
+
 - [jQuery Docs](https://api.jquery.com/)
 
 - [Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
