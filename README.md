@@ -37,6 +37,7 @@
   - [ReactJs](#reactjs)
   - [UI Component Libraries](#ui-component-libraries)
   - [CSS Frameworks](#css-frameworks)
+  - [Other Modules](#other-modules-1)
 - [Other Stuff](#other-stuff)
   - [Programing Concepts](#programing-concepts)
   - [UI Design Resources](#ui-design-resources)
@@ -292,7 +293,6 @@
 
 - [parcel](https://parceljs.org/)
 
-
 ## ReactJs
 
 - [Docs](https://reactjs.org/docs/getting-started.html)
@@ -318,6 +318,12 @@
   - [Sass Crash Course - Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
 
   - [Sass Crash Course - dev.to](https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2)
+
+## Other Modules
+
+| Module | Functionality |
+| --- | -- |
+| [serve](https://www.npmjs.com/package/serve) | serve static files |
 
 # Other Stuff
 
