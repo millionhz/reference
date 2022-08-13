@@ -160,6 +160,7 @@
 - Cool HTML Elements
 
   - [`<fieldset>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset)
+
   - [`dl`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)
 
 ## DOM
@@ -170,17 +171,17 @@
 
 - [HTML DOM - w3schools](https://www.w3schools.com/js/js_htmldom.asp)
 
-- Dom Crash Course - Traversy Media ([part1](https://www.youtube.com/watch?v=0ik6X4DJKCc)) ([part2](https://www.youtube.com/watch?v=mPd2aJXCZ2g)) ([part3](https://www.youtube.com/watch?v=wK2cBMcDTss)) ([part4](https://www.youtube.com/watch?v=i37KVt_IcXw))
+- Courses
 
-- [Javascript DOM Manipulation - freeCodeCamp](https://www.youtube.com/watch?v=5fb2aPlgoys)
+  - Dom Crash Course - Traversy Media ([part1](https://www.youtube.com/watch?v=0ik6X4DJKCc)) ([part2](https://www.youtube.com/watch?v=mPd2aJXCZ2g)) ([part3](https://www.youtube.com/watch?v=wK2cBMcDTss)) ([part4](https://www.youtube.com/watch?v=i37KVt_IcXw))
 
-- [jQuery Docs](https://api.jquery.com/)
+  - [Javascript DOM Manipulation - freeCodeCamp](https://www.youtube.com/watch?v=5fb2aPlgoys)
 
-- [Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+- Main APIs
 
-- [Window API](https://developer.mozilla.org/en-US/docs/Web/API/Window)
-
-- [Navigator API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator)
+  - [Window API](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+  - [Navigator API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator)
+  - [Document API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
 
 - Other APIs
 
@@ -189,6 +190,8 @@
   - Element
   - HTMLElement
   - HTMLFormElement
+
+- [jQuery Docs](https://api.jquery.com/)
 
 ## Events
 
