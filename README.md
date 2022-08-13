@@ -328,6 +328,7 @@
 
 | Module | Functionality |
 | --- | -- |
+| [axios](https://axios-http.com/docs/intro) | http client |
 | [faker.js](https://fakerjs.dev/) | Placeholder data |
 | [serve](https://www.npmjs.com/package/serve) | serve static files |
 
