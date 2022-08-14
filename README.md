@@ -98,7 +98,6 @@
 
 - [`call()`, `apply()` & `bind()`](https://betterprogramming.pub/when-to-use-bind-call-and-apply-in-javascript-1ae9d7fa66d5)
 
-- [Intro to ES6](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI) (Codexpanse - YouTube) <!-- Remove later-->
 - Other Topics
 
   - [Tasks and MicroTasks](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
