@@ -10,8 +10,10 @@
   - [Python](#python)
   - [JavaScript](#javascript)
   - [Node](#node)
-  - [C++](#c)
+  - [C](#c)
+  - [C++](#c-1)
   - [Solidity](#solidity)
+- [Systems Programming](#systems-programming)
 - [Databases](#databases)
   - [SQL](#sql)
   - [MongoDB](#mongodb)
@@ -54,11 +56,13 @@
 
 - [Data Structure Recap](https://www.programiz.com/dsa/data-structure-types)
 
+- [Data Structure Notes](https://github.com/millionhz/data-structures-notes)
+
 ## Git/Github
 
 - [Guide - atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
-- [`git config`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+- [`git` Docs](https://git-scm.com/doc)
 
 - [ssh authentication](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
@@ -112,7 +116,17 @@
 
 - [Node Built-In Globals](https://nodejs.org/en/knowledge/getting-started/globals-in-node-js/)
 
+## C
+
+- [C Reference - GNU](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+
+- [C Reference - cppreference](https://en.cppreference.com/w/c)
+
 ## C++
+
+- [C++ Reference - Microsoft Docs](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
+
+- [C++ Reference - cppreference](https://en.cppreference.com/w/cpp)
 
 - [C++ Roadmap](https://github.com/millionhz/cplusplus-roadmap)
 
@@ -123,6 +137,16 @@
 - [Solidity, Blockchain, and Smart Contract Course – Python - freeCodeCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
 - [Solidity, Blockchain, and Smart Contract Course – Javascript - freeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+
+# Systems Programming
+
+- [man7](https://man7.org/linux/man-pages/)
+
+- [linux.die](https://linux.die.net/man/)
+
+- [Unix Processes in C - CodeVault](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
+
+- [Unix Threads in C - CodeVault](https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
 
 # Databases
 
