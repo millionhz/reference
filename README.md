@@ -357,6 +357,8 @@
 
 # Other Stuff
 
+- [Google Search Parameters](https://ahrefs.com/blog/google-advanced-search-operators/)
+
 ## Programing Concepts
 
 - [Memonization](https://www.freecodecamp.org/news/memoization-in-javascript-and-react/)
