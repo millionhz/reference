@@ -1,5 +1,6 @@
-# Table of Contents
-- [Table of Contents](#table-of-contents)
+# Reference
+
+- [Reference](#reference)
 - [General](#general)
   - [Linux](#linux)
   - [Data Structures](#data-structures)
@@ -94,7 +95,7 @@
 
 - Object Oriented Programming
 
-  - [Overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects) 
+  - [Overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
   - [ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
@@ -161,6 +162,8 @@
 ## MongoDB
 
 - [MongoDB CRUD](https://www.mongodb.com/docs/manual/crud/)
+
+- [MongoDB Relationships](https://www.mongodb.com/docs/v5.3/tutorial/model-embedded-one-to-one-relationships-between-documents/)
 
 - [MongoDB `mongosh` reference](https://www.mongodb.com/docs/manual/reference/method/)
 
@@ -305,7 +308,7 @@
 | [cookie-parser](https://expressjs.com/en/resources/middleware/cookie-parser.html) | cookie parsing utility for express |
 | [cookie-session](https://expressjs.com/en/resources/middleware/cookie-session.html) | cookie based sessions |
 | [multer](https://expressjs.com/en/resources/middleware/multer.html) | blob form data |
-| [validator](https://www.npmjs.com/package/validator) | input validation | 
+| [validator](https://www.npmjs.com/package/validator) | input validation |
 | [nodemon](https://www.npmjs.com/package/nodemon) | live reload for node |
 | [concurrently](https://www.npmjs.com/package/concurrently) | run commands concurrently |
 | [dotenv](https://www.npmjs.com/package/dotenv) | environment variable utility |
