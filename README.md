@@ -255,6 +255,8 @@
 
 - [wesbos eslint config](https://github.com/wesbos/eslint-config-wesbos)
 
+- [airbnb eslint config](https://www.npmjs.com/package/eslint-config-airbnb)
+
 ## Transpiling
 
 - [babel](https://babeljs.io/)
@@ -329,6 +331,8 @@
 - [Docs](https://reactjs.org/docs/getting-started.html)
 
 - [Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+
+- [`create-react-app`](https://create-react-app.dev/)
 
 - [React Router](https://reactrouter.com/)
 
