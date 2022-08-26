@@ -36,6 +36,7 @@
   - [Authentication](#authentication)
   - [Other Modules](#other-modules)
 - [Frontend Modules](#frontend-modules)
+  - [Content Delivery](#content-delivery)
   - [Bundler](#bundler)
   - [ReactJs](#reactjs)
   - [UI Component Libraries](#ui-component-libraries)
@@ -320,6 +321,10 @@
 
 # Frontend Modules
 
+## Content Delivery
+
+- [cdnjs](https://cdnjs.com/)
+
 ## Bundler
 
 - [webpack](https://webpack.js.org/)
@@ -365,6 +370,8 @@
 # Other Stuff
 
 - [Google Search Parameters](https://ahrefs.com/blog/google-advanced-search-operators/)
+
+- [Free For Dev](https://free-for.dev/)
 
 ## Programing Concepts
 
