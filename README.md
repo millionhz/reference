@@ -343,6 +343,14 @@
 
 - [Course - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
+- Important Concepts
+
+  - Functional & Class Components
+  - Controlled & Uncontrolled Components
+  - Event Handling & `this` in Class Components
+  - Keys in React Lists
+  - React Refs & DOM
+
 ## UI Component Libraries
 
 - [Material UI](https://mui.com/)
