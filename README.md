@@ -202,7 +202,7 @@
 
   - Dom Crash Course - Traversy Media ([part1](https://www.youtube.com/watch?v=0ik6X4DJKCc)) ([part2](https://www.youtube.com/watch?v=mPd2aJXCZ2g)) ([part3](https://www.youtube.com/watch?v=wK2cBMcDTss)) ([part4](https://www.youtube.com/watch?v=i37KVt_IcXw))
 
-  - [Javascript DOM Manipulation - freeCodeCamp](https://www.youtube.com/watch?v=5fb2aPlgoys)
+  - [Javascript DOM Manipulation Course - freeCodeCamp](https://www.youtube.com/watch?v=5fb2aPlgoys)
 
 - Main APIs
 
@@ -276,7 +276,7 @@
 
 - [`express-generator`](https://expressjs.com/en/starter/generator.html)
 
-- [Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
+- [Node.js and Express.js Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
 
 ## Template Engines
 
@@ -341,8 +341,6 @@
 
 - [React Router](https://reactrouter.com/)
 
-- [Course - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
-
 - Important Concepts
 
   - Functional & Class Components
@@ -350,6 +348,8 @@
   - Event Handling & `this` in Class Components
   - Keys in React Lists
   - React Refs & DOM
+
+- [Full React Course 2020 - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
 ## UI Component Libraries
 
