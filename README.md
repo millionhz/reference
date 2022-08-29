@@ -303,18 +303,18 @@
 
 ## Other Modules
 
-| Module | Functionality |
-| --- | -- |
-| [http-errors](https://www.npmjs.com/package/http-errors) | http error utility for express |
-| [debug](https://www.npmjs.com/package/debug) | debug logging utility |
-| [morgan](https://expressjs.com/en/resources/middleware/morgan.html) | http request logger |
-| [cookie-parser](https://expressjs.com/en/resources/middleware/cookie-parser.html) | cookie parsing utility for express |
-| [cookie-session](https://expressjs.com/en/resources/middleware/cookie-session.html) | cookie based sessions |
-| [multer](https://expressjs.com/en/resources/middleware/multer.html) | blob form data |
-| [validator](https://www.npmjs.com/package/validator) | input validation |
-| [nodemon](https://www.npmjs.com/package/nodemon) | live reload for node |
-| [concurrently](https://www.npmjs.com/package/concurrently) | run commands concurrently |
-| [dotenv](https://www.npmjs.com/package/dotenv) | environment variable utility |
+| Module                                                                              | Functionality                      |
+| ----------------------------------------------------------------------------------- | ---------------------------------- |
+| [http-errors](https://www.npmjs.com/package/http-errors)                            | http error utility for express     |
+| [debug](https://www.npmjs.com/package/debug)                                        | debug logging utility              |
+| [morgan](https://expressjs.com/en/resources/middleware/morgan.html)                 | http request logger                |
+| [cookie-parser](https://expressjs.com/en/resources/middleware/cookie-parser.html)   | cookie parsing utility for express |
+| [cookie-session](https://expressjs.com/en/resources/middleware/cookie-session.html) | cookie based sessions              |
+| [multer](https://expressjs.com/en/resources/middleware/multer.html)                 | blob form data                     |
+| [validator](https://www.npmjs.com/package/validator)                                | input validation                   |
+| [nodemon](https://www.npmjs.com/package/nodemon)                                    | live reload for node               |
+| [concurrently](https://www.npmjs.com/package/concurrently)                          | run commands concurrently          |
+| [dotenv](https://www.npmjs.com/package/dotenv)                                      | environment variable utility       |
 
 - Also see:
   - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
@@ -339,7 +339,13 @@
 
 - [`create-react-app`](https://create-react-app.dev/)
 
-- [React Router](https://reactrouter.com/)
+- Modules
+
+  - [`prop-types`](https://reactjs.org/docs/typechecking-with-proptypes.html)
+
+  - [React Router](https://reactrouter.com/)
+
+  - [Redux](https://react-redux.js.org/)
 
 - Important Concepts
 
@@ -348,6 +354,10 @@
   - Event Handling & `this` in Class Components
   - Keys in React Lists
   - React Refs & DOM
+  - React Hooks & Custom Hooks
+  - Referencial equality
+  - Debouncing
+  - `dangerouslySetInnerHTML` & XSS Attacks
 
 - [Full React Course 2020 - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
@@ -369,10 +379,10 @@
 
 ## Other Modules
 
-| Module | Functionality |
-| --- | -- |
-| [axios](https://axios-http.com/docs/intro) | http client |
-| [faker.js](https://fakerjs.dev/) | Placeholder data |
+| Module                                       | Functionality      |
+| -------------------------------------------- | ------------------ |
+| [axios](https://axios-http.com/docs/intro)   | http client        |
+| [faker.js](https://fakerjs.dev/)             | Placeholder data   |
 | [serve](https://www.npmjs.com/package/serve) | serve static files |
 
 # Other Stuff
