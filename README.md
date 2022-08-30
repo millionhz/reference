@@ -34,6 +34,7 @@
   - [Template Engines](#template-engines)
   - [Database Utils](#database-utils)
   - [Authentication](#authentication)
+- [Testing](#testing)
   - [Other Modules](#other-modules)
 - [Frontend Modules](#frontend-modules)
   - [Content Delivery](#content-delivery)
@@ -300,21 +301,28 @@
 
 - [`connect-ensure-login`](https://www.npmjs.com/package/connect-ensure-login)
 
+# Testing
+
+- [jest](https://jestjs.io/)
+
+- [supertest](https://jestjs.io/)
+
 
 ## Other Modules
 
-| Module                                                                              | Functionality                      |
-| ----------------------------------------------------------------------------------- | ---------------------------------- |
-| [http-errors](https://www.npmjs.com/package/http-errors)                            | http error utility for express     |
-| [debug](https://www.npmjs.com/package/debug)                                        | debug logging utility              |
-| [morgan](https://expressjs.com/en/resources/middleware/morgan.html)                 | http request logger                |
-| [cookie-parser](https://expressjs.com/en/resources/middleware/cookie-parser.html)   | cookie parsing utility for express |
-| [cookie-session](https://expressjs.com/en/resources/middleware/cookie-session.html) | cookie based sessions              |
-| [multer](https://expressjs.com/en/resources/middleware/multer.html)                 | blob form data                     |
-| [validator](https://www.npmjs.com/package/validator)                                | input validation                   |
-| [nodemon](https://www.npmjs.com/package/nodemon)                                    | live reload for node               |
-| [concurrently](https://www.npmjs.com/package/concurrently)                          | run commands concurrently          |
-| [dotenv](https://www.npmjs.com/package/dotenv)                                      | environment variable utility       |
+| Module                                                                              | Functionality                        |
+| ----------------------------------------------------------------------------------- | ------------------------------------ |
+| [http-errors](https://www.npmjs.com/package/http-errors)                            | http error utility for express       |
+| [debug](https://www.npmjs.com/package/debug)                                        | debug logging utility                |
+| [morgan](https://expressjs.com/en/resources/middleware/morgan.html)                 | http request logger                  |
+| [cookie-parser](https://expressjs.com/en/resources/middleware/cookie-parser.html)   | cookie parsing utility for express   |
+| [cookie-session](https://expressjs.com/en/resources/middleware/cookie-session.html) | cookie based sessions                |
+| [multer](https://expressjs.com/en/resources/middleware/multer.html)                 | blob form data                       |
+| [validator](https://www.npmjs.com/package/validator)                                | input validation                     |
+| [nodemon](https://www.npmjs.com/package/nodemon)                                    | live reload for node                 |
+| [concurrently](https://www.npmjs.com/package/concurrently)                          | run commands concurrently            |
+| [dotenv](https://www.npmjs.com/package/dotenv)                                      | environment variable utility         |
+| [cross-env](https://www.npmjs.com/package/cross-env)                                | environment variable utility for cli |
 
 - Also see:
   - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
