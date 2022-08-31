@@ -40,6 +40,7 @@
   - [Content Delivery](#content-delivery)
   - [Bundler](#bundler)
   - [ReactJs](#reactjs)
+  - [Redux](#redux)
   - [UI Component Libraries](#ui-component-libraries)
   - [CSS Frameworks](#css-frameworks)
   - [Other Modules](#other-modules-1)
@@ -345,15 +346,15 @@
 
 - [Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
-- [`create-react-app`](https://create-react-app.dev/)
-
 - Modules
+
+  - [`create-react-app`](https://create-react-app.dev/)
 
   - [`prop-types`](https://reactjs.org/docs/typechecking-with-proptypes.html)
 
   - [React Router](https://reactrouter.com/)
 
-  - [Redux](https://react-redux.js.org/)
+  - [Storybook](https://storybook.js.org/)
 
 - Important Concepts
 
@@ -368,6 +369,14 @@
   - `dangerouslySetInnerHTML` & XSS Attacks
 
 - [Full React Course 2020 - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
+
+## Redux
+
+- [Redux](https://redux.js.org/)
+
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+
+- [React Redux](https://react-redux.js.org/)
 
 ## UI Component Libraries
 
