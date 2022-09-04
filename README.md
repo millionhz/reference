@@ -19,9 +19,8 @@
   - [MongoDB](#mongodb)
 - [Systems Programming](#systems-programming)
 - [Web Development](#web-development)
+- [Data Science & Machine Learning](#data-science--machine-learning)
 - [Other Stuff](#other-stuff)
-  - [Programing Concepts](#programing-concepts)
-  - [UI Design Resources](#ui-design-resources)
 
 # General
 
@@ -149,22 +148,18 @@
 
 # Web Development
 
-- [Web Dev Reference](https://github.com/millionhz/web-dev-reference)
+- [Resource Reference](https://github.com/millionhz/web-dev-reference)
 
 - [Backend](https://github.com/millionhz/web-dev-reference#backend-modules)
 
 - [Frontend](https://github.com/millionhz/web-dev-reference#frontend-modules)
+
+# Data Science & Machine Learning
+
+- [Resource Reference](https://github.com/millionhz/python-reference#data-science--machine-learning)
 
 # Other Stuff
 
 - [Google Search Parameters](https://ahrefs.com/blog/google-advanced-search-operators/)
 
 - [Free For Dev](https://free-for.dev/)
-
-## Programing Concepts
-
-- [Memonization](https://www.freecodecamp.org/news/memoization-in-javascript-and-react/)
-
-## UI Design Resources
-
-- [Resources - bradtraversy](https://github.com/bradtraversy/design-resources-for-developers)
