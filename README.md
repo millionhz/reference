@@ -65,6 +65,8 @@
 
 - [Python Reference](https://github.com/millionhz/python-reference)
 
+- [Modules & Libraries](https://github.com/millionhz/python-reference#modules-and-libraries)
+
 ## JavaScript
 
 - [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript#reference)
