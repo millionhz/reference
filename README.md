@@ -20,6 +20,9 @@
 - [Systems Programming](#systems-programming)
 - [Web Development](#web-development)
 - [Data Science & Machine Learning](#data-science--machine-learning)
+  - [Environments](#environments)
+  - [Data Sceince](#data-sceince)
+  - [Machine Learning](#machine-learning)
 - [Other Stuff](#other-stuff)
 
 # General
@@ -156,8 +159,25 @@
 
 # Data Science & Machine Learning
 
-- [Resource Reference](https://github.com/millionhz/python-reference#data-science--machine-learning)
+## Environments
 
+- [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
+
+- [Jupyter](https://jupyterlab.readthedocs.io/en/stable/)
+
+## Data Sceince
+
+- Numpy
+
+- Pandas
+
+- Matplotlib
+
+## Machine Learning
+
+- Tensorflow
+
+- Keras
 # Other Stuff
 
 - [Google Search Parameters](https://ahrefs.com/blog/google-advanced-search-operators/)
