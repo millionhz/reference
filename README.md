@@ -19,9 +19,9 @@
   - [MongoDB](#mongodb)
 - [Systems Programming](#systems-programming)
 - [Web Development](#web-development)
-- [Data Science & Machine Learning](#data-science--machine-learning)
+- [Data Science](#data-science)
   - [Environments](#environments)
-  - [Data Sceince](#data-sceince)
+  - [Data Engineering](#data-engineering)
   - [Machine Learning](#machine-learning)
 - [Other Stuff](#other-stuff)
 
@@ -157,7 +157,7 @@
 
 - [Frontend](https://github.com/millionhz/web-dev-reference#frontend-modules)
 
-# Data Science & Machine Learning
+# Data Science
 
 ## Environments
 
@@ -165,7 +165,7 @@
 
 - [Jupyter](https://jupyterlab.readthedocs.io/en/stable/)
 
-## Data Sceince
+## Data Engineering
 
 - Numpy
 
@@ -178,6 +178,7 @@
 - Tensorflow
 
 - Keras
+- 
 # Other Stuff
 
 - [Google Search Parameters](https://ahrefs.com/blog/google-advanced-search-operators/)
