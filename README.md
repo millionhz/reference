@@ -103,6 +103,8 @@
 
 - [C Reference - GNU](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
+- [C Library - GNU](https://www.gnu.org/software/libc/manual/html_node/index.html#SEC_Contents)
+
 - [C Reference - cppreference](https://en.cppreference.com/w/c)
 
 ## C++
@@ -178,7 +180,7 @@
 - Tensorflow
 
 - Keras
-- 
+-
 # Other Stuff
 
 - [Google Search Parameters](https://ahrefs.com/blog/google-advanced-search-operators/)
