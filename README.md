@@ -3,6 +3,7 @@
 - [Reference](#reference)
 - [General](#general)
   - [Linux](#linux)
+  - [Secure Shell](#secure-shell)
   - [Data Structures](#data-structures)
   - [Git/Github](#gitgithub)
   - [Markdown](#markdown)
@@ -32,6 +33,12 @@
 - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) ([video](https://www.youtube.com/watch?v=ZtqBQ68cfJc))
 
 - [Linuxize](https://linuxize.com/)
+
+## Secure Shell
+
+- [ssh - Microsoft](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_overview)
+
+- [scp - linuxize](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 
 ## Data Structures
 
@@ -178,7 +185,7 @@
 - Tensorflow
 
 - Keras
--
+
 # Other Stuff
 
 - [Google Search Parameters](https://ahrefs.com/blog/google-advanced-search-operators/)
