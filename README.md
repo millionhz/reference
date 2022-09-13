@@ -174,9 +174,9 @@
 
 ## Data Engineering
 
-- Numpy
+- [Numpy](https://numpy.org/doc/stable/reference/index.html)
 
-- Pandas
+- [Pandas](https://pandas.pydata.org/docs/reference/index.html)
 
 - Matplotlib
 
