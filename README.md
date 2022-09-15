@@ -170,7 +170,7 @@
 
 - [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
 
-- [Jupyter](https://jupyterlab.readthedocs.io/en/stable/)
+- [Jupyter](https://jupyterlab.readthedocs.io/en/stable/) ([extensions](https://jupyterlab-contrib.github.io/migrate_from_classical.html))
 
 ## Data Engineering
 
