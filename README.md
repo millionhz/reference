@@ -16,7 +16,7 @@
   - [C++](#c-1)
   - [Solidity](#solidity)
 - [Databases](#databases)
-  - [SQL](#sql)
+  - [SQL/SQLite](#sqlsqlite)
   - [MongoDB](#mongodb)
 - [Systems Programming](#systems-programming)
 - [Web Development](#web-development)
@@ -132,11 +132,11 @@
 
 - [Database Design Course - freeCodeCamp](https://www.youtube.com/watch?v=ztHopE5Wnpc)
 
-## SQL
+## SQL/SQLite
 
 - [SQL Keyword References](https://www.w3schools.com/sql/sql_ref_keywords.asp)
 
-- [SQLite Docs](https://www.sqlite.org/docs.html)
+- [SQLite Docs](https://www.sqlite.org/docs.html) ([tutorial](https://www.sqlitetutorial.net/))
 
 ## MongoDB
 
