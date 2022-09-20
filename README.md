@@ -170,13 +170,23 @@
 
 - [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
 
-- [Jupyter](https://jupyterlab.readthedocs.io/en/stable/) ([extensions](https://jupyterlab-contrib.github.io/migrate_from_classical.html))
+- [Jupyter](https://docs.jupyter.org/en/latest/)
+
+  - [extensions](https://jupyterlab-contrib.github.io/migrate_from_classical.html)
+  - [IPython Docs](https://ipython.readthedocs.io/en/stable/index.html)
 
 ## Data Engineering
 
 - [Numpy](https://numpy.org/doc/stable/reference/index.html)
 
 - [Pandas](https://pandas.pydata.org/docs/reference/index.html)
+
+  - Indexing
+  - Selection
+  - Group By
+  - Pivot Tables
+  - Descriptive Statistics
+  - Utility Functions
 
 - Matplotlib
 
