@@ -23,7 +23,9 @@
 - [Data Science](#data-science)
   - [Environments](#environments)
   - [Data Engineering](#data-engineering)
-  - [Machine Learning](#machine-learning)
+- [Machine Learning](#machine-learning)
+  - [Tutorials](#tutorials)
+  - [Libraries](#libraries)
 - [Other Stuff](#other-stuff)
 
 # General
@@ -190,7 +192,13 @@
 
 - Matplotlib
 
-## Machine Learning
+# Machine Learning
+
+## Tutorials
+
+- [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
+
+## Libraries
 
 - Tensorflow
 
