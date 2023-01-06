@@ -14,6 +14,7 @@
   - [Node](#node)
   - [C](#c)
   - [C++](#c-1)
+  - [Haskell](#haskell)
   - [Solidity](#solidity)
 - [Databases](#databases)
   - [SQL/SQLite](#sqlsqlite)
@@ -121,6 +122,36 @@
 - [C++ Reference - cppreference](https://en.cppreference.com/w/cpp)
 
 - [C++ Roadmap](https://github.com/millionhz/cplusplus-roadmap)
+
+## Haskell
+
+- [learn you a haskell](http://learnyouahaskell.com/chapters)
+
+- [Library Reference](https://downloads.haskell.org/ghc/latest/docs/libraries/)
+
+- [Hoogle](https://hoogle.haskell.org/)
+
+- [Hasekell for Imperative Programmers](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+
+- Roadmap
+
+  - Basic Function Definitions
+  - DataTypes
+  - `if`, `then` & `else` statements
+  - `let` & `in` binding
+  - `where` binding
+  - Pattern Matching
+  - Guards
+  - Accumulators
+  - [Haskell Lists](https://downloads.haskell.org/ghc/latest/docs/libraries/base-4.17.0.0/Data-List.html)
+  - List Comprehensions
+  - Tuples
+  - Higher Order Functions
+  - Anonymous Functions
+  - Partial Functions & Currying
+  - Function Composition (`.` && `$`)
+  - Folding
+  - User Defined Datatypes
 
 ## Solidity
 
