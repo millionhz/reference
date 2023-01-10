@@ -248,4 +248,6 @@
 
 - [Google Search Parameters](https://ahrefs.com/blog/google-advanced-search-operators/)
 
+- [Google Like a Pro - freeCodeCamp](https://www.youtube.com/watch?v=BRiNw490Eq0)
+
 - [Free For Dev](https://free-for.dev/)
