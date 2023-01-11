@@ -134,13 +134,13 @@
 
 ## Haskell
 
-- [learn you a haskell](http://learnyouahaskell.com/chapters)
+- [Learn you a haskell - book](http://learnyouahaskell.com/chapters)
 
 - [Library Reference](https://downloads.haskell.org/ghc/latest/docs/libraries/)
 
 - [Hoogle](https://hoogle.haskell.org/)
 
-- [Hasekell for Imperative Programmers](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+- [Hasekell for Imperative Programmers - youtube](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 
 - Roadmap
 
