@@ -161,6 +161,8 @@
   - Function Composition (`.` && `$`)
   - Folding
   - User Defined Datatypes
+  - Records
+  - Typeclasses & `:info`
 
 ## Solidity
 
