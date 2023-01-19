@@ -69,6 +69,8 @@
 
 - [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
+- [Variable Reference](https://code.visualstudio.com/docs/editor/variables-reference)
+
 ## Docker
 
 - [Docs](https://docs.docker.com/)
