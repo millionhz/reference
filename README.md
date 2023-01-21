@@ -21,12 +21,11 @@
   - [MongoDB](#mongodb)
 - [Systems Programming](#systems-programming)
 - [Web Development](#web-development)
-- [Data Science](#data-science)
+- [Data Science \& Machine Learning](#data-science--machine-learning)
   - [Environments](#environments)
   - [Data Engineering](#data-engineering)
-- [Machine Learning](#machine-learning)
+  - [Modelling](#modelling)
   - [Tutorials](#tutorials)
-  - [Libraries](#libraries)
 - [Other Stuff](#other-stuff)
 
 # General
@@ -203,7 +202,7 @@
 
 - [Frontend](https://github.com/millionhz/web-dev-reference#frontend-modules)
 
-# Data Science
+# Data Science & Machine Learning
 
 ## Environments
 
@@ -220,26 +219,27 @@
 
 - [Pandas](https://pandas.pydata.org/docs/reference/index.html)
 
-  - Indexing
+  <!-- - Indexing
   - Selection
   - Group By
   - Pivot Tables
   - Descriptive Statistics
-  - Utility Functions
+  - Utility Functions -->
 
-- Matplotlib
+- [Matplotlib](https://matplotlib.org/)
 
-# Machine Learning
+## Modelling
+
+- [scikit-learn](https://scikit-learn.org/stable/)
+
+- [Tensorflow & Keras](https://www.tensorflow.org/)
+
+- [PyTorch](https://pytorch.org/)
 
 ## Tutorials
 
 - [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 
-## Libraries
-
-- Tensorflow
-
-- Keras
 
 # Other Stuff
 
