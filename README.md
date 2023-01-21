@@ -21,11 +21,13 @@
   - [MongoDB](#mongodb)
 - [Systems Programming](#systems-programming)
 - [Web Development](#web-development)
-- [Data Science \& Machine Learning](#data-science--machine-learning)
+- [Data Science](#data-science)
   - [Environments](#environments)
   - [Data Engineering](#data-engineering)
-  - [Modelling](#modelling)
-  - [Tutorials](#tutorials)
+- [Machine Learning](#machine-learning)
+  - [scikit-learn](#scikit-learn)
+  - [Tensorflow](#tensorflow)
+  - [PyTorch](#pytorch)
 - [Other Stuff](#other-stuff)
 
 # General
@@ -202,7 +204,7 @@
 
 - [Frontend](https://github.com/millionhz/web-dev-reference#frontend-modules)
 
-# Data Science & Machine Learning
+# Data Science
 
 ## Environments
 
@@ -228,18 +230,25 @@
 
 - [Matplotlib](https://matplotlib.org/)
 
-## Modelling
-
-- [scikit-learn](https://scikit-learn.org/stable/)
-
-- [Tensorflow & Keras](https://www.tensorflow.org/)
-
-- [PyTorch](https://pytorch.org/)
-
-## Tutorials
+# Machine Learning
 
 - [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 
+## scikit-learn
+
+- [Docs](https://scikit-learn.org/0.21/documentation.html)
+
+## Tensorflow
+
+- [Docs](https://www.tensorflow.org/api_docs)
+
+## PyTorch
+
+- [Docs](https://pytorch.org/docs/stable/index.html)
+
+- [PyTorch for Deep Learning - freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
+
+- [Learn PyTorch for deep learning in a day - Daniel Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 
 # Other Stuff
 
