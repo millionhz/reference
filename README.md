@@ -74,7 +74,7 @@
 
 ## Docker
 
-- [Docs](https://docs.docker.com/)
+- [Docker Docs](https://docs.docker.com/)
 
 - [Docker Hub](https://hub.docker.com/)
 
@@ -238,15 +238,15 @@
 
 ## scikit-learn
 
-- [Docs](https://scikit-learn.org/0.21/documentation.html)
+- [scikit-learn Docs](https://scikit-learn.org/0.21/documentation.html)
 
 ## Tensorflow
 
-- [Docs](https://www.tensorflow.org/api_docs)
+- [Tensorflow Docs](https://www.tensorflow.org/api_docs)
 
 ## PyTorch
 
-- [Docs](https://pytorch.org/docs/stable/index.html)
+- [PyTorch Docs](https://pytorch.org/docs/stable/index.html)
 
 - [PyTorch for Deep Learning - freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
 
