@@ -138,27 +138,7 @@
 
 - [Hasekell for Imperative Programmers - youtube](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 
-- Roadmap
-
-  - Basic Function Definitions
-  - DataTypes
-  - `if`, `then` & `else` statements
-  - `let` & `in` binding
-  - `where` binding
-  - Pattern Matching
-  - Guards
-  - Accumulators
-  - [Haskell Lists](https://downloads.haskell.org/ghc/latest/docs/libraries/base-4.17.0.0/Data-List.html)
-  - List Comprehensions
-  - Tuples
-  - Higher Order Functions
-  - Anonymous Functions
-  - Partial Functions & Currying
-  - Function Composition (`.` && `$`)
-  - Folding
-  - User Defined Datatypes
-  - Records
-  - Typeclasses & `:info`
+- [Roadmap](./docs/haskell-roadmap.md)
 
 ## Solidity
 
