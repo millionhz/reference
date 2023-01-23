@@ -156,7 +156,9 @@
 
 - [SQL Keyword References](https://www.w3schools.com/sql/sql_ref_keywords.asp)
 
-- [SQLite Docs](https://www.sqlite.org/docs.html) ([tutorial](https://www.sqlitetutorial.net/))
+- [SQL(ite) Tutorial](https://www.sqlitetutorial.net/)
+
+- [SQLite Docs](https://www.sqlite.org/docs.html)
 
 ## MongoDB
 
