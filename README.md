@@ -28,6 +28,7 @@
   - [scikit-learn](#scikit-learn)
   - [Tensorflow](#tensorflow)
   - [PyTorch](#pytorch)
+- [Google Search](#google-search)
 - [Other Stuff](#other-stuff)
 
 # General
@@ -234,10 +235,12 @@
 
 - [Learn PyTorch for deep learning in a day - Daniel Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 
-# Other Stuff
+# Google Search
 
 - [Google Search Parameters](https://ahrefs.com/blog/google-advanced-search-operators/)
 
 - [Google Like a Pro - freeCodeCamp](https://www.youtube.com/watch?v=BRiNw490Eq0)
+
+# Other Stuff
 
 - [Free For Dev](https://free-for.dev/)
