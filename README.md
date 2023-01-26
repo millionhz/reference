@@ -157,7 +157,9 @@
 
 - [SQL Keyword References](https://www.w3schools.com/sql/sql_ref_keywords.asp)
 
-- [SQL(ite) Tutorial](https://www.sqlitetutorial.net/)
+- [Sqlite Tutorial](https://www.sqlitetutorial.net/)
+
+- [MySQL Tutorial](https://www.mysqltutorial.org/)
 
 - [SQLite Docs](https://www.sqlite.org/docs.html)
 
