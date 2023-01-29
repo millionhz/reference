@@ -25,9 +25,8 @@
   - [Environments](#environments)
   - [Data Engineering](#data-engineering)
 - [Machine Learning \& Deep Learning](#machine-learning--deep-learning)
-  - [scikit-learn](#scikit-learn)
-  - [Tensorflow](#tensorflow)
-  - [PyTorch](#pytorch)
+  - [Theory](#theory)
+  - [Libraries](#libraries)
 - [Google Search](#google-search)
 - [Other Stuff](#other-stuff)
 
@@ -219,27 +218,25 @@
 
 # Machine Learning & Deep Learning
 
+## Theory
+
 - [Machine Learning by Dr Agha Ali Raza - youtube](https://www.youtube.com/playlist?list=PLnvLVSNZy9VLfLalXwCY0IasyKTKZboBQ) ([notes](https://www.c-salt.org/courses/machine-learning-f2021#h.xieqwmgaoci0))
 
 - [Neural Networks - 3b1b](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 - [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 
-## scikit-learn
+## Libraries
 
-- [scikit-learn Docs](https://scikit-learn.org/0.21/documentation.html)
+- [scikit-learn](https://scikit-learn.org/0.21/documentation.html)
 
-## Tensorflow
+- [Tensorflow](https://www.tensorflow.org/api_docs)
 
-- [Tensorflow Docs](https://www.tensorflow.org/api_docs)
+- [PyTorch](https://pytorch.org/docs/stable/index.html)
 
-## PyTorch
+  - [PyTorch for Deep Learning - freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
 
-- [PyTorch Docs](https://pytorch.org/docs/stable/index.html)
-
-- [PyTorch for Deep Learning - freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
-
-- [Learn PyTorch for deep learning in a day - Daniel Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+  - [Learn PyTorch for deep learning in a day - Daniel Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 
 # Google Search
 
