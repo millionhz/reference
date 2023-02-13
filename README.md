@@ -12,6 +12,7 @@
 - [Programming Languages](#programming-languages)
   - [Python](#python)
   - [JavaScript](#javascript)
+  - [Typescript](#typescript)
   - [C](#c)
   - [C++](#c-1)
   - [Haskell](#haskell)
@@ -113,6 +114,10 @@
   - [What the hell is `this`](https://www.section.io/engineering-education/how-to-use-javascript-arrow-functions-and-this-keyword/#:~:text=Arrow%20function%20and%20this%20context)
 
   - [Lazy Evaluation](https://thoughts.travelperk.com/optimizing-js-with-lazy-evaluation-and-memoization-9d0cd8c30cd4)
+
+## Typescript
+
+- [Typescript Reference](https://github.com/millionhz/web-dev-reference#typescript)
 
 ## C
 
