@@ -22,12 +22,11 @@
   - [MongoDB](#mongodb)
 - [Systems Programming](#systems-programming)
 - [Web Development](#web-development)
-- [Data Science](#data-science)
+- [Data Science, ML \& DL](#data-science-ml--dl)
+  - [Theory](#theory)
   - [Environments](#environments)
   - [Data Engineering](#data-engineering)
-- [Machine Learning \& Deep Learning](#machine-learning--deep-learning)
-  - [Theory](#theory)
-  - [Libraries](#libraries)
+  - [Modeling](#modeling)
 - [Google Search](#google-search)
 - [Other Stuff](#other-stuff)
 
@@ -193,7 +192,17 @@
 
 - [Frontend](https://github.com/millionhz/web-dev-reference#frontend-modules)
 
-# Data Science
+# Data Science, ML & DL
+
+## Theory
+
+- [Machine Learning by Dr Agha Ali Raza - youtube](https://www.youtube.com/playlist?list=PLnvLVSNZy9VLfLalXwCY0IasyKTKZboBQ) ([notes](https://www.c-salt.org/courses/machine-learning-f2021#h.xieqwmgaoci0))
+
+- [StatQuest - youtube](https://www.youtube.com/@statquest)
+
+- [Neural Networks - 3b1b](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+- [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 
 ## Environments
 
@@ -221,19 +230,7 @@
 
 - [seaborn](https://seaborn.pydata.org/)
 
-# Machine Learning & Deep Learning
-
-## Theory
-
-- [Machine Learning by Dr Agha Ali Raza - youtube](https://www.youtube.com/playlist?list=PLnvLVSNZy9VLfLalXwCY0IasyKTKZboBQ) ([notes](https://www.c-salt.org/courses/machine-learning-f2021#h.xieqwmgaoci0))
-
-- [StatQuest - youtube](https://www.youtube.com/@statquest)
-
-- [Neural Networks - 3b1b](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-
-- [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
-
-## Libraries
+## Modeling
 
 - [scikit-learn](https://scikit-learn.org/0.21/documentation.html)
 
