@@ -227,6 +227,8 @@
 
 - [Machine Learning by Dr Agha Ali Raza - youtube](https://www.youtube.com/playlist?list=PLnvLVSNZy9VLfLalXwCY0IasyKTKZboBQ) ([notes](https://www.c-salt.org/courses/machine-learning-f2021#h.xieqwmgaoci0))
 
+- [StatQuest - youtube](https://www.youtube.com/@statquest)
+
 - [Neural Networks - 3b1b](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 - [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
