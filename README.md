@@ -22,12 +22,14 @@
   - [MongoDB](#mongodb)
 - [Systems Programming](#systems-programming)
 - [Web Development](#web-development)
-- [Data Science, ML \& DL](#data-science-ml--dl)
+- [Data Science \& Machine Learning](#data-science--machine-learning)
   - [Theory](#theory)
-  - [Research](#research)
   - [Environments](#environments)
-  - [Data Engineering](#data-engineering)
-  - [Modeling](#modeling)
+  - [Tools](#tools)
+- [Deep Learning](#deep-learning)
+  - [Theory](#theory-1)
+  - [Research](#research)
+  - [Tools](#tools-1)
 - [Google Search](#google-search)
 - [Other Stuff](#other-stuff)
 
@@ -193,7 +195,7 @@
 
 - [Frontend](https://github.com/millionhz/web-dev-reference#frontend-modules)
 
-# Data Science, ML & DL
+# Data Science & Machine Learning
 
 ## Theory
 
@@ -205,10 +207,6 @@
 
 - [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 
-## Research
-
-- [PapersWithCode](https://paperswithcode.com/)
-
 ## Environments
 
 - [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
@@ -218,26 +216,33 @@
   - [extensions](https://jupyterlab-contrib.github.io/migrate_from_classical.html)
   - [IPython Docs](https://ipython.readthedocs.io/en/stable/index.html)
 
-## Data Engineering
+## Tools
 
 - [Numpy](https://numpy.org/doc/stable/reference/index.html)
 
 - [Pandas](https://pandas.pydata.org/docs/reference/index.html)
 
-  <!-- - Indexing
-  - Selection
-  - Group By
-  - Pivot Tables
-  - Descriptive Statistics
-  - Utility Functions -->
-
 - [Matplotlib](https://matplotlib.org/)
 
 - [seaborn](https://seaborn.pydata.org/)
 
-## Modeling
-
 - [scikit-learn](https://scikit-learn.org/0.21/documentation.html)
+
+# Deep Learning
+
+## Theory
+
+- [DigitalSreeni - youtube](https://www.youtube.com/@DigitalSreeni)
+
+- [CodeEmporium - youtube](https://www.youtube.com/@CodeEmporium)
+
+- [JayAlamar](https://jalammar.github.io/)
+
+## Research
+
+- [PapersWithCode](https://paperswithcode.com/)
+
+## Tools
 
 - [Tensorflow](https://www.tensorflow.org/api_docs)
 
