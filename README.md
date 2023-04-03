@@ -263,3 +263,5 @@
 # Other Stuff
 
 - [Free For Dev](https://free-for.dev/)
+
+- [7z Docs](https://sevenzip.osdn.jp/chm/cmdline/index.htm)
