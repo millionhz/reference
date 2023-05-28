@@ -9,6 +9,7 @@
   - [Markdown](#markdown)
   - [VS Code](#vs-code)
   - [Docker](#docker)
+  - [Other Tools](#other-tools)
 - [Programming Languages](#programming-languages)
   - [Python](#python)
   - [JavaScript](#javascript)
@@ -75,6 +76,12 @@
 - [Docker Hub](https://hub.docker.com/)
 
 - [Docker Tutorial for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+
+## Other Tools
+
+- tmux
+
+- vim
 
 # Programming Languages
 
