@@ -13,7 +13,7 @@ weight: 60
 
 ## ChatGPT
 
-- [Prompt engineering for developers - deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [Prompt engineering for developers - deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) ([notes]({{< ref "/posts/chatgpt-prompt-engineering-for-developers.md" >}}))
 
 # Machine Learning
 
