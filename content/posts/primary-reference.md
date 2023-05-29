@@ -2,6 +2,7 @@
 title: "Primary Reference"
 summary: A reference bank for everything coding
 aliases: "/references"
+weight: 10
 ---
 
 # General
@@ -122,7 +123,7 @@ aliases: "/references"
 
 - [Hasekell for Imperative Programmers - youtube](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 
-- [Roadmap](./docs/haskell-roadmap.md)
+- [Roadmap]({{< ref "/posts/haskell.md" >}} )
 
 ## Solidity
 
