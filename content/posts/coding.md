@@ -25,6 +25,8 @@ weight: 10
 
 - [Data Structure Notes](https://github.com/millionhz/data-structures-notes)
 
+# Development Tools
+
 ## Git/Github
 
 - [Guide - atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
@@ -36,10 +38,6 @@ weight: 10
 - [gitignore.io](https://www.toptal.com/developers/gitignore)
 
 - [gitignore patterns](https://linuxize.com/post/gitignore-ignoring-files-in-git/)
-
-## Markdown
-
-- [Cheat Sheet by adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
 ## VS Code
 
@@ -61,7 +59,9 @@ weight: 10
 
 - vim
 
-# Systems Programming
+# Concepts
+
+## Systems Programming
 
 - [man7](https://man7.org/linux/man-pages/)
 
@@ -71,7 +71,7 @@ weight: 10
 
 - [Unix Threads in C - CodeVault](https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
 
-# Web Development
+## Web Development
 
 - [Fundamentals]({{< ref "/posts/web-dev-fundamentals.md" >}})
 
@@ -79,18 +79,18 @@ weight: 10
 
 - [Backend]({{< ref "/posts/backend.md" >}})
 
-# Artificial Intelligence
+## Artificial Intelligence
 
 - [Resource Reference]({{< ref "/posts/artificial-intelligence.md" >}})
-
-# Google Search
-
-- [Google Search Parameters](https://ahrefs.com/blog/google-advanced-search-operators/)
-
-- [Google Like a Pro - freeCodeCamp](https://www.youtube.com/watch?v=BRiNw490Eq0)
 
 # Other Stuff
 
 - [Free For Dev](https://free-for.dev/)
 
 - [7z Docs](https://sevenzip.osdn.jp/chm/cmdline/index.htm)
+
+## Google Search
+
+- [Google Search Parameters](https://ahrefs.com/blog/google-advanced-search-operators/)
+
+- [Google Like a Pro - freeCodeCamp](https://www.youtube.com/watch?v=BRiNw490Eq0)

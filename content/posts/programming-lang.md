@@ -27,11 +27,11 @@ weight: 15
 
   - [ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
-- [`this`](https://www.w3schools.com/js/js_this.asp) keyword
-
-- [`call()`, `apply()` & `bind()`](https://betterprogramming.pub/when-to-use-bind-call-and-apply-in-javascript-1ae9d7fa66d5)
-
 - Other Topics
+
+  - [`this`](https://www.w3schools.com/js/js_this.asp) keyword
+
+  - [`call()`, `apply()` & `bind()`](https://betterprogramming.pub/when-to-use-bind-call-and-apply-in-javascript-1ae9d7fa66d5)
 
   - [Tasks and MicroTasks](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
@@ -60,6 +60,10 @@ weight: 15
 - [C++ Reference - cppreference](https://en.cppreference.com/w/cpp)
 
 - [C++ Roadmap]({{< ref "/posts/cplusplus-roadmap" >}})
+
+# Markdown
+
+- [Cheat Sheet by adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
 # Haskell
 
