@@ -1,0 +1,30 @@
+title: My References
+# paginate: 5
+theme: PaperMod
+
+menu:
+    main:
+        - name: Github
+          url: https://github.com/millionhz/references
+
+params:
+  showtoc: true
+  tocopen: true
+
+  homeInfoParams:
+    Title: References
+    Content:
+      Welcome to my resource reference 🎉.
+
+
+      This is a personally curated list of resources I use and recommend. I hope you find them useful too.
+
+
+      Do give a 🌟 on Github !
+
+  socialIcons:
+      - name: github
+        url: "https://github.com/millionhz/"
+      - name: email
+        url: "mailto:m.waqas.hamza@gmail.com"
+
