@@ -181,9 +181,9 @@ weight: 20
 
 ## Asynchronous Programming
 
-- [asyncio](https://docs.python.org/3/library/asyncio.html) - [TechWithTim Video](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
+- [Coroutines & Subtasks](https://docs.python.org/3/library/asyncio-task.html)
 
-- [Coroutines & Subtasks](https://docs.python.org/3/library/asyncio-task.html#id3)
+- [asyncio](https://docs.python.org/3/library/asyncio.html) - [TechWithTim Video](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
 
 - [Streams](https://docs.python.org/3/library/asyncio-stream.html)
 
