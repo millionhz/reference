@@ -1,4 +1,3 @@
-baseURL: "https://millionhz.github.io/references/"
 title: My References
 # paginate: 5
 theme: PaperMod
@@ -11,10 +10,9 @@ menu:
 params:
   showtoc: true
   tocopen: true
-  hideSummary: true
 
   homeInfoParams:
-    Title: References 
+    Title: References
     Content:
       Welcome to my resource reference 🎉.
 

@@ -1,5 +1,7 @@
 ---
 title: "Primary Reference"
+summary: A reference bank for everything coding
+aliases: "/references"
 ---
 
 # General
