@@ -1,4 +1,4 @@
-title: My Reference
+title: Resource Reference ✨
 # paginate: 5
 theme: PaperMod
 
@@ -12,7 +12,7 @@ params:
   tocopen: true
 
   homeInfoParams:
-    Title: My Reference
+    Title: Hey 👋
     Content:
       Welcome to my resource reference 🎉.
 
