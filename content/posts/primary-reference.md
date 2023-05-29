@@ -69,7 +69,7 @@ weight: 10
 
 - [Python Reference]({{< ref "/posts/python.md" >}})
 
-- [Modules & Libraries](https://github.com/millionhz/python-reference#modules-and-libraries)
+- [Modules & Libraries]({{< ref "/posts/python.md#modules-and-libraries" >}})
 
 ## JavaScript
 
@@ -97,7 +97,11 @@ weight: 10
 
 ## Typescript
 
-- [Typescript Reference](https://github.com/millionhz/web-dev-reference#typescript)
+- [Typescript Docs](https://www.typescriptlang.org/docs/)
+
+- [`tsconfig`](https://www.typescriptlang.org/tsconfig)
+
+- [Learn TypeScript – Full Tutorial - freeCodeCamp](https://www.youtube.com/watch?v=30LWjhZzg50)
 
 ## C
 
@@ -111,7 +115,7 @@ weight: 10
 
 - [C++ Reference - cppreference](https://en.cppreference.com/w/cpp)
 
-- [C++ Roadmap](https://github.com/millionhz/cplusplus-roadmap)
+- [C++ Roadmap]({{< ref "/posts/cplusplus-roadmap" >}})
 
 ## Haskell
 
@@ -169,13 +173,13 @@ weight: 10
 
 - [Fundamentals]({{< ref "/posts/web-dev-fundamentals.md" >}})
 
-- [Backend]({{< ref "/posts/backend.md" >}})
-
 - [Frontend]({{< ref "/posts/frontend.md" >}})
+
+- [Backend]({{< ref "/posts/backend.md" >}})
 
 # Artificial Intelligence
 
-- [Resource Reference](https://github.com/millionhz/ai-reference)
+- [Resource Reference]({{< ref "/posts/artificial-intelligence.md" >}})
 
 # Google Search
 

@@ -1,7 +1,6 @@
 ---
 title: "Haskell Roadmamp"
 summary: A roadmap for learning Haskell
-aliases: "/haskell"
 weight: 100
 ---
 
