@@ -156,7 +156,9 @@ weight: 20
 
 - [pip Docs](https://pip.pypa.io/en/stable/getting-started/)
 
-## [Standard Library](https://docs.python.org/3/library/)
+- [Standard Library](https://docs.python.org/3/library/)
+
+## Main Modules
 
 - [argparse](https://docs.python.org/3/library/argparse.html)
 - [copy](https://docs.python.org/3/library/copy.html)
@@ -177,9 +179,11 @@ weight: 20
 
 ([**Complete Index**](https://docs.python.org/3/py-modindex.html))
 
-## [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
+## Asynchronous Programming
 
-- [asyncio](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim Video](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
+- [asyncio](https://docs.python.org/3/library/asyncio.html) - [TechWithTim Video](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
+
+- [Coroutines & Subtasks](https://docs.python.org/3/library/asyncio-task.html#id3)
 
 - [Streams](https://docs.python.org/3/library/asyncio-stream.html)
 
@@ -191,7 +195,9 @@ weight: 20
 
 - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures)
 
-## [Networking Programing](https://docs.python.org/3/library/ipc.html)
+## Networking Programing
+
+- [Network Programming with Python](https://docs.python.org/3/library/ipc.html)
 
 - [socket](https://realpython.com/python-sockets/)
 
