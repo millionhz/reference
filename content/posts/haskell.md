@@ -2,7 +2,7 @@
 title: "Haskell Roadmamp"
 summary: A roadmap for learning Haskell
 aliases: "/haskell"
-weight: 20
+weight: 100
 ---
 
 - Basic Function Definitions

@@ -67,7 +67,7 @@ weight: 10
 
 ## Python
 
-- [Python Reference](https://github.com/millionhz/python-reference)
+- [Python Reference]({{< ref "/posts/python.md" >}})
 
 - [Modules & Libraries](https://github.com/millionhz/python-reference#modules-and-libraries)
 
