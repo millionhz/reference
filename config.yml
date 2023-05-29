@@ -1,18 +1,18 @@
-title: My References
+title: My Reference
 # paginate: 5
 theme: PaperMod
 
 menu:
     main:
         - name: Github
-          url: https://github.com/millionhz/references
+          url: https://github.com/millionhz/reference
 
 params:
   showtoc: true
   tocopen: true
 
   homeInfoParams:
-    Title: References
+    Title: Reference
     Content:
       Welcome to my resource reference 🎉.
 
