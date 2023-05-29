@@ -1,7 +1,7 @@
 ---
 title: "Coding"
 summary: A reference bank for everything coding
-aliases: "/reference"
+aliases: "/coding"
 weight: 10
 ---
 
