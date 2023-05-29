@@ -73,4 +73,3 @@ weight: 30
 - [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 
 - [CSS Pseudo Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
-

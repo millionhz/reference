@@ -1,5 +1,5 @@
 ---
-title: "Primary Reference"
+title: "Software Development"
 summary: A reference bank for everything coding
 aliases: "/reference"
 weight: 10
@@ -167,11 +167,11 @@ weight: 10
 
 # Web Development
 
-- [Resource Reference](https://github.com/millionhz/web-dev-reference)
+- [Fundamentals]({{< ref "/posts/web-dev-fundamentals.md" >}})
 
-- [Backend](https://github.com/millionhz/web-dev-reference#backend-modules)
+- [Backend]({{< ref "/posts/backend.md" >}})
 
-- [Frontend](https://github.com/millionhz/web-dev-reference#frontend-modules)
+- [Frontend]({{< ref "/posts/frontend.md" >}})
 
 # Artificial Intelligence
 
