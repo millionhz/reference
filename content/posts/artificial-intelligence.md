@@ -1,6 +1,7 @@
 ---
 title: "Artificial Intelligence"
 summary: A reference bank for everything ai
+aliases: "/ai"
 weight: 60
 ---
 

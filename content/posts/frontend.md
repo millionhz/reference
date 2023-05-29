@@ -1,6 +1,7 @@
 ---
 title: "Frontend Development"
 summary: A reference bank for frontend development
+allies: "/frontend"
 weight: 40
 ---
 
