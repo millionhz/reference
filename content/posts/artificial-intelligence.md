@@ -57,17 +57,21 @@ weight: 60
 
 - [PapersWithCode](https://paperswithcode.com/)
 
-## Tools
+## PyTorch
 
-- [Tensorflow](https://www.tensorflow.org/api_docs)
+### Docs
 
-- [PyTorch](https://pytorch.org/docs/stable/index.html)
+- [Official Docs](https://pytorch.org/docs/stable/index.html)
 
-  - [PyTorch for Deep Learning - freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
+- [Pytorch Notes - Daniel Bourke](https://www.learnpytorch.io/)
 
-  - [Deep Learning with Pytorch - sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
+### Courses
 
-  - [Learn PyTorch for deep learning in a day - Daniel Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+- [PyTorch for Deep Learning - freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
+
+- [Deep Learning with Pytorch - sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
+
+- [Learn PyTorch for deep learning in a day - Daniel Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A) ([udemy](https://www.udemy.com/course/pytorch-for-deep-learning/)) ([notes](https://www.learnpytorch.io/))
 
 # Other Libraries & Tools
 
