@@ -27,22 +27,6 @@ weight: 60
 
 - [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 
-## Tools
-
-- [scikit-learn](https://scikit-learn.org/0.21/documentation.html)
-
-# Data Science
-
-## Tools
-
-- [Numpy](https://numpy.org/doc/stable/reference/index.html)
-
-- [Pandas](https://pandas.pydata.org/docs/reference/index.html)
-
-- [Matplotlib](https://matplotlib.org/)
-
-- [seaborn](https://seaborn.pydata.org/)
-
 # Deep Learning
 
 ## Theory
@@ -57,9 +41,9 @@ weight: 60
 
 - [PapersWithCode](https://paperswithcode.com/)
 
-## PyTorch
+# Libraries & Frameworks
 
-### Docs
+## PyTorch
 
 - [Official Docs](https://pytorch.org/docs/stable/index.html)
 
@@ -73,17 +57,28 @@ weight: 60
 
 - [Learn PyTorch for deep learning in a day - Daniel Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A) ([udemy](https://www.udemy.com/course/pytorch-for-deep-learning/)) ([notes](https://www.learnpytorch.io/))
 
-# Other Libraries & Tools
+## Jupyter
 
-## IDE
+- [Docs](https://docs.jupyter.org/en/latest/)
 
-- [Jupyter](https://docs.jupyter.org/en/latest/)
+- [Extensions](https://jupyterlab-contrib.github.io/migrate_from_classical.html)
 
-  - [extensions](https://jupyterlab-contrib.github.io/migrate_from_classical.html)
-  - [IPython Docs](https://ipython.readthedocs.io/en/stable/index.html)
+- [IPython Docs](https://ipython.readthedocs.io/en/stable/index.html)
 
-## Environments
+## Virtual Environments
 
 - [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
 
 - [pipenv](https://pipenv.pypa.io/)
+
+## Other
+
+- [Scikit Learn](https://scikit-learn.org/0.21/documentation.html)
+
+- [Numpy](https://numpy.org/doc/stable/reference/index.html)
+
+- [Pandas](https://pandas.pydata.org/docs/reference/index.html)
+
+- [Matplotlib](https://matplotlib.org/)
+
+- [Seaborn](https://seaborn.pydata.org/)
