@@ -49,6 +49,12 @@ weight: 60
 
 - [Pytorch Notes - Daniel Bourke](https://www.learnpytorch.io/)
 
+### Accompanying Libraries
+
+- [PyTorch Lightning](https://lightning.ai/pages/open-source/)
+
+- [TorchMetrics](https://torchmetrics.readthedocs.io/en/latest/)
+
 ### Courses
 
 - [PyTorch for Deep Learning - freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
