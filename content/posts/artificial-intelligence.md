@@ -88,3 +88,5 @@ weight: 60
 - [Matplotlib](https://matplotlib.org/)
 
 - [Seaborn](https://seaborn.pydata.org/)
+
+- [MLxTEND](https://rasbt.github.io/mlxtend/)
