@@ -27,6 +27,8 @@ weight: 60
 
 - [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 
+- [ML-Science](https://www.ml-science.com/)
+
 # Deep Learning
 
 ## Theory
