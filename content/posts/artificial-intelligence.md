@@ -55,6 +55,8 @@ weight: 60
 
 - [TorchMetrics](https://torchmetrics.readthedocs.io/en/latest/)
 
+- [torchinfo](https://github.com/TylerYep/torchinfo)
+
 ### Courses
 
 - [PyTorch for Deep Learning - freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
