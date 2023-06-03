@@ -43,6 +43,10 @@ weight: 60
 
 - [PapersWithCode](https://paperswithcode.com/)
 
+## Talks
+
+- [LSTM is dead. Long Live Transformers! - Seattle Applied Deep Learning](https://www.youtube.com/watch?v=S27pHKBEp30)
+
 # Libraries & Frameworks
 
 ## PyTorch
