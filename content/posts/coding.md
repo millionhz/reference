@@ -25,6 +25,10 @@ weight: 10
 
 - [Data Structure Notes](https://github.com/millionhz/data-structures-notes)
 
+## Coding
+
+- [The power of 10](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code)
+
 # Development Tools
 
 ## Git/Github
