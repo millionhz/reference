@@ -57,6 +57,12 @@ weight: 10
 
 - [Docker Tutorial for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
+## Notion
+
+- [Second Brain - Thomas Frank Explains](https://www.youtube.com/watch?v=vs8WQh2k-Ow)
+
+- [Second Brain From Scratch - Thomas Frank Explains](https://www.youtube.com/watch?v=Y__243RqBeM&pp=ygUTbm90aW9uIHNlY29uZiBicmFpbg%3D%3D)
+
 ## Other Tools
 
 - tmux
