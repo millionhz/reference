@@ -63,6 +63,8 @@ weight: 10
 
 - [Second Brain From Scratch - Thomas Frank Explains](https://www.youtube.com/watch?v=Y__243RqBeM&pp=ygUTbm90aW9uIHNlY29uZiBicmFpbg%3D%3D)
 
+- [Notero](https://github.com/dvanoni/notero)
+
 ## Other Tools
 
 - tmux
