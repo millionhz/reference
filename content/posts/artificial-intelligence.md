@@ -63,6 +63,8 @@ weight: 60
 
 - [torchinfo](https://github.com/TylerYep/torchinfo)
 
+- [einops](https://github.com/arogozhnikov/einops)
+
 ### Courses
 
 - [PyTorch for Deep Learning - freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
