@@ -6,6 +6,14 @@ menu:
     main:
         - name: Github
           url: https://github.com/millionhz/reference
+        - name: Search
+          url: search/
+          weight: 10
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
 
 params:
   showtoc: true

@@ -2,6 +2,7 @@
 title: "ChatGPT Prompt Engineering for Developers"
 summary: Rough notes for ChatGPT Prompt Engineering for Developers from deeplearning.ai
 weight: 200
+searchHidden: true
 ---
 
 # General Guidelines
