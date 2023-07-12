@@ -35,6 +35,8 @@ weight: 50
 
 - [Node Built-In Globals](https://nodejs.org/en/knowledge/getting-started/globals-in-node-js/)
 
+- [Node Version Manager](https://github.com/nvm-sh/nvm)
+
 ## Package Managers
 
 - [`package.json`](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
