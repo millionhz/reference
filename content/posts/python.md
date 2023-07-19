@@ -152,6 +152,8 @@ weight: 20
 
 - [Typing](https://realpython.com/python-type-checking/)
 
+- [Concurrency](https://realpython.com/python-concurrency/)
+
 # Modules and Libraries
 
 - [pip Docs](https://pip.pypa.io/en/stable/getting-started/)
