@@ -63,6 +63,16 @@ weight: 15
 
 - [C++ Roadmap]({{< ref "/posts/cplusplus-roadmap" >}})
 
+# Go
+
+- [Getting Started: Tour](https://go.dev/tour/list)
+
+- [Go Language Specification](https://go.dev/ref/spec)
+
+- [Standard Library](https://pkg.go.dev/std)
+
+- [Effective Go](https://go.dev/doc/effective_go)
+
 # Markdown
 
 - [Cheat Sheet by adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
