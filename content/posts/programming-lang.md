@@ -53,6 +53,8 @@ weight: 15
 
 - [C Reference - cppreference](https://en.cppreference.com/w/c)
 
+- [C Processes & Threads]({{< ref "/posts/coding.md" >}}#systems-programming)
+
 # C++
 
 - [C++ Reference - Microsoft Docs](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
