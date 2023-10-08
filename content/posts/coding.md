@@ -95,6 +95,10 @@ weight: 10
 
 - [Resource Reference]({{< ref "/posts/artificial-intelligence.md" >}})
 
+## Security
+
+- [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/index.html)
+
 # Other Stuff
 
 - [Free For Dev](https://free-for.dev/)
