@@ -47,6 +47,8 @@ weight: 15
 
 - [Learn TypeScript – Full Tutorial - freeCodeCamp](https://www.youtube.com/watch?v=30LWjhZzg50)
 
+- [Advent of TypeScript](https://typehero.dev/)
+
 # C
 
 - [C Reference - GNU](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
