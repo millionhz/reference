@@ -95,6 +95,10 @@ weight: 10
 
 - [Resource Reference]({{< ref "/posts/artificial-intelligence.md" >}})
 
+## Data Science
+
+- [Statistics Notes - 365DataScience](https://365datascience.com/resources-center/course-notes/statistics/)
+
 ## Security
 
 - [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/index.html)

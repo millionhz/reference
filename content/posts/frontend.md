@@ -28,7 +28,6 @@ weight: 40
   - Referencial equality
   - Debouncing
   - `dangerouslySetInnerHTML` & XSS Attacks -->
-
 - [Full React Course 2020 - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
 ## [Redux](https://redux.js.org/)
