@@ -103,6 +103,8 @@ weight: 10
 
 - [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/index.html)
 
+- [MITRE Database](https://attack.mitre.org/)
+
 # Other Stuff
 
 - [Free For Dev](https://free-for.dev/)
