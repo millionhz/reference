@@ -99,7 +99,7 @@ weight: 10
 
 - [Statistics Notes - 365DataScience](https://365datascience.com/resources-center/course-notes/statistics/)
 
-## Security
+## Cyber Security
 
 - [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/index.html)
 
