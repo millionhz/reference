@@ -1,7 +1,7 @@
 ---
-title: "Coding"
-summary: A reference bank for everything coding
-aliases: "/coding"
+title: "Computing"
+summary: A reference bank for everything computing
+aliases: "/computing"
 weight: 10
 ---
 

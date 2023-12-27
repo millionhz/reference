@@ -55,7 +55,7 @@ weight: 15
 
 - [C Reference - cppreference](https://en.cppreference.com/w/c)
 
-- [C Processes & Threads]({{< ref "/posts/coding.md" >}}#systems-programming)
+- [C Processes & Threads]({{< ref "/posts/computing.md" >}}#systems-programming)
 
 # C++
 
