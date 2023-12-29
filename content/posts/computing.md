@@ -111,6 +111,8 @@ weight: 10
 
 - [7z Docs](https://sevenzip.osdn.jp/chm/cmdline/index.htm)
 
+- [FMHY](https://fmhy.net/)
+
 ## Google Search
 
 - [Google Search Parameters](https://ahrefs.com/blog/google-advanced-search-operators/)
