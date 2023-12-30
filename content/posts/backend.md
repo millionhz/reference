@@ -2,10 +2,10 @@
 title: "Backend Development"
 summary: A reference bank for backend development
 allies: "/backend"
-weight: 45
+weight: 30
 ---
 
-# Static Site Generation (SSG)
+# Static Site Generation
 
 ## Hugo
 
@@ -30,7 +30,7 @@ weight: 45
 
 - [Middleware](https://expressjs.com/en/resources/middleware.html)
 
-- [Utility Functions](https://expressjs.com/en/resources/utils.html) (low level)
+- [Utility Modules](https://expressjs.com/en/resources/utils.html) (low level)
 
 - [`express-generator`](https://expressjs.com/en/starter/generator.html)
 
@@ -70,19 +70,21 @@ weight: 45
 
 - [airbnb eslint config](https://www.npmjs.com/package/eslint-config-airbnb)
 
-## Backend Modules
+# Backend Modules
 
-### Template Engines
+- [Awesome NodeJs](https://github.com/sindresorhus/awesome-nodejs)
+
+## Template Engines
 
 - [EJS](https://ejs.co/#docs)
 
 - [Handlebars](https://handlebarsjs.com/)
 
-### Database Utils
+## Database Utils
 
 - [Mongoose](https://mongoosejs.com/docs/guides.html) (MongoDB)
 
-### Authentication
+## Authentication
 
 - [`express-session`](https://www.npmjs.com/package/express-session)
 
@@ -92,13 +94,13 @@ weight: 45
 
   - [Tutorial](https://levelup.gitconnected.com/everything-you-need-to-know-about-the-passport-local-passport-js-strategy-633bbab6195)
 
-### Testing
+## Testing
 
 - [jest](https://jestjs.io/)
 
 - [supertest](https://jestjs.io/)
 
-### Other Modules
+## Other Modules
 
 - [http-errors](https://www.npmjs.com/package/http-errors)
 - [debug](https://www.npmjs.com/package/debug)
@@ -111,6 +113,3 @@ weight: 45
 - [concurrently](https://www.npmjs.com/package/concurrently)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [cross-env](https://www.npmjs.com/package/cross-env)
-
-- Also see:
-  - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
