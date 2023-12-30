@@ -1,7 +1,7 @@
 ---
 title: "Frontend Fundamentals"
 summary: A reference bank for fundamentals of frontend
-weight: 30
+weight: 190
 ---
 
 # Docs
