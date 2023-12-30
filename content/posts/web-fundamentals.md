@@ -1,7 +1,7 @@
 ---
-title: "Frontend Fundamentals"
-summary: A reference bank for fundamentals of frontend
-weight: 190
+title: "Web Fundamentals"
+summary: A reference bank for web fundamentals
+weight: 25
 ---
 
 # Docs

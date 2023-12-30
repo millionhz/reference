@@ -85,7 +85,7 @@ weight: 10
 
 ## Web Development
 
-- [Frontend Fundamentals]({{< ref "/posts/frontend-fundamentals.md" >}})
+- [Web Fundamentals]({{< ref "/posts/web-fundamentals.md" >}})
 
 - [Frontend]({{< ref "/posts/frontend.md" >}})
 
