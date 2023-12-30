@@ -1,7 +1,7 @@
 ---
-title: "Database"
+title: "Databases"
 summary: A reference bank for databases
-allies: "/database"
+allies: "/databases"
 weight: 50
 ---
 
