@@ -1,6 +1,6 @@
 ---
-title: "Web Development Fundamentals"
-summary: A reference bank for fundamentals of web development
+title: "Frontend Fundamentals"
+summary: A reference bank for fundamentals of frontend
 weight: 30
 ---
 
