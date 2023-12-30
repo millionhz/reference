@@ -5,6 +5,21 @@ allies: "/backend"
 weight: 45
 ---
 
+# Static Site Generation (SSG)
+
+## Hugo
+
+- [Docs](https://gohugo.io/documentation/)
+
+- [Themes](https://themes.gohugo.io/)
+  - [Book](https://themes.gohugo.io/themes/hugo-book/)
+  - [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/)
+  - [Academic](https://themes.gohugo.io/themes/theme-academic-cv/)
+
+## Other
+
+- [Vitepress](https://vitepress.dev/)
+
 # Backend Frameworks
 
 ## [Express JS](https://expressjs.com/)
@@ -21,13 +36,13 @@ weight: 45
 
 - [Node.js and Express.js Course - freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE)
 
-## Firebase
+## Others
 
-- [Docs](https://firebase.google.com/docs)
+- [Firebase](https://firebase.google.com)
 
-## FastAPI
+- [FastAPI](https://fastapi.tiangolo.com/lo/)
 
-- [Docs](https://fastapi.tiangolo.com/lo/)
+- [Django](https://www.djangoproject.com/)
 
 # Node
 
