@@ -91,9 +91,13 @@ weight: 10
 
 - [Backend]({{< ref "/posts/backend.md" >}})
 
+## Databases
+
+- [Database Reference]({{< ref "/posts/database.md" >}})
+
 ## Artificial Intelligence
 
-- [Resource Reference]({{< ref "/posts/artificial-intelligence.md" >}})
+- [AI Reference]({{< ref "/posts/artificial-intelligence.md" >}})
 
 ## Data Science
 

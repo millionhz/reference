@@ -2,7 +2,7 @@
 title: "Backend Development"
 summary: A reference bank for backend development
 allies: "/backend"
-weight: 50
+weight: 45
 ---
 
 # Backend Frameworks
@@ -99,25 +99,3 @@ weight: 50
 
 - Also see:
   - [40 Useful NPM Packages for Node.js](https://leanylabs.com/blog/npm-packages-for-nodejs/)
-
-# Databases
-
-- [Database Design Course - freeCodeCamp](https://www.youtube.com/watch?v=ztHopE5Wnpc)
-
-## SQL/SQLite
-
-- [SQL Keyword References](https://www.w3schools.com/sql/sql_ref_keywords.asp)
-
-- [Sqlite Tutorial](https://www.sqlitetutorial.net/)
-
-- [MySQL Tutorial](https://www.mysqltutorial.org/)
-
-- [SQLite Docs](https://www.sqlite.org/docs.html)
-
-## MongoDB
-
-- [MongoDB CRUD](https://www.mongodb.com/docs/manual/crud/)
-
-- [MongoDB Relationships](https://www.mongodb.com/docs/v5.3/tutorial/model-embedded-one-to-one-relationships-between-documents/)
-
-- [MongoDB `mongosh` reference](https://www.mongodb.com/docs/manual/reference/method/)
