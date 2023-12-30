@@ -105,6 +105,8 @@ weight: 10
 
 - [MITRE Database](https://attack.mitre.org/)
 
+- [Network Security Notes](https://millionhz.github.io/network-security-notes/)
+
 # Other Stuff
 
 - [Free For Dev](https://free-for.dev/)
