@@ -17,6 +17,8 @@ weight: 40
 
 - [awesome-react - enaqx](https://github.com/enaqx/awesome-react)
 
+- [Full React Course 2020 - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
+
 <!-- - Important Concepts
 
   - Functional & Class Components
@@ -28,27 +30,25 @@ weight: 40
   - Referencial equality
   - Debouncing
   - `dangerouslySetInnerHTML` & XSS Attacks -->
-- [Full React Course 2020 - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
-
-## [Redux](https://redux.js.org/)
-
-- [Redux Toolkit](https://redux-toolkit.js.org/)
-
-- [React Redux](https://react-redux.js.org/)
 
 # Frontend Modules
 
+- [cdnjs](https://cdnjs.com/)
+
 ## ReactJs Modules
 
+- [Awesome React](https://github.com/enaqx/awesome-react)
 - [`create-react-app`](https://create-react-app.dev/)
 - [`prop-types`](https://reactjs.org/docs/typechecking-with-proptypes.html)
 - [React Router](https://reactrouter.com/)
 - [Storybook](https://storybook.js.org/)
 - [React Final Form](https://final-form.org/react)
 
-## Content Delivery
+## [Redux](https://redux.js.org/)
 
-- [cdnjs](https://cdnjs.com/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+
+- [React Redux](https://react-redux.js.org/)
 
 ## Bundler
 
