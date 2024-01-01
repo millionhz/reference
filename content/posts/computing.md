@@ -115,9 +115,9 @@ weight: 10
 
 # Other Stuff
 
-- [Free For Dev](https://free-for.dev/)
+## Free Stuff
 
-- [7z Docs](https://sevenzip.osdn.jp/chm/cmdline/index.htm)
+- [Free For Dev](https://free-for.dev/)
 
 - [FMHY](https://fmhy.net/)
 
