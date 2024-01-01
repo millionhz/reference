@@ -79,6 +79,8 @@ weight: 15
 
 - [Cheat Sheet by adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
+- [GoAT Diagrams](https://github.com/bep/goat)
+
 # Haskell
 
 - [Learn you a haskell - book](http://learnyouahaskell.com/chapters)
