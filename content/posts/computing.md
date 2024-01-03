@@ -21,6 +21,10 @@ weight: 10
 
 - [scp - linuxize](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 
+## Alogrithms
+
+- [The Last Algorithms Course You'll Need - ThePrimeagen](https://theprimeagen.github.io/fem-algos/) ([course](https://frontendmasters.com/courses/algorithms/))
+
 ## Data Structures
 
 - [Data Structure Recap](https://www.programiz.com/dsa/data-structure-types)
