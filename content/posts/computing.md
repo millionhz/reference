@@ -31,6 +31,8 @@ weight: 10
 
 ## Coding
 
+- [Programming Languages]({{< ref "/posts/programming-lang.md" >}})
+
 - [The power of 10](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code)
 
 # Development Tools
