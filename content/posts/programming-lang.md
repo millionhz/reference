@@ -43,6 +43,8 @@ weight: 15
 
 - [Typescript Docs](https://www.typescriptlang.org/docs/)
 
+- [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
+
 - [`tsconfig`](https://www.typescriptlang.org/tsconfig)
 
 - [Learn TypeScript – Full Tutorial - freeCodeCamp](https://www.youtube.com/watch?v=30LWjhZzg50)
