@@ -5,16 +5,6 @@ aliases: "/ai"
 weight: 25
 ---
 
-# AI Tools
-
-## Hugging Face
-
-- [Hugging Face](https://huggingface.co/)
-
-## ChatGPT
-
-- [Prompt engineering for developers - deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) ([notes]({{< ref "/posts/chatgpt-prompt-engineering-for-developers.md" >}}))
-
 # Machine Learning
 
 ## Theory
@@ -47,15 +37,13 @@ weight: 25
 
 - [LSTM is dead. Long Live Transformers! - Seattle Applied Deep Learning](https://www.youtube.com/watch?v=S27pHKBEp30)
 
-# Libraries & Frameworks
-
-## PyTorch
+# PyTorch
 
 - [Official Docs](https://pytorch.org/docs/stable/index.html)
 
 - [Pytorch Notes - Daniel Bourke](https://www.learnpytorch.io/)
 
-### Accompanying Libraries
+## Accompanying Libraries
 
 - [PyTorch Lightning](https://lightning.ai/pages/open-source/)
 
@@ -65,13 +53,23 @@ weight: 25
 
 - [einops](https://github.com/arogozhnikov/einops)
 
-### Courses
+## Courses
 
 - [PyTorch for Deep Learning - freeCodeCamp](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
 
 - [Deep Learning with Pytorch - sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
 
 - [Learn PyTorch for deep learning in a day - Daniel Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A) ([udemy](https://www.udemy.com/course/pytorch-for-deep-learning/)) ([notes](https://www.learnpytorch.io/))
+
+# Libraries & Tools
+
+## Hugging Face
+
+- [Hugging Face](https://huggingface.co/)
+
+## ChatGPT
+
+- [Prompt engineering for developers - deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) ([notes]({{< ref "/posts/chatgpt-prompt-engineering-for-developers.md" >}}))
 
 ## Jupyter
 
