@@ -5,51 +5,15 @@ aliases: "/frontend"
 weight: 40
 ---
 
-# [ReactJs](https://reactjs.org/)
+# Frontend Frameworks
+
+## [ReactJs](https://reactjs.org/)
 
 - [Docs](https://react.dev/)
 
 - [Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
-- [Full React Course 2020 - freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
-
-<!-- - Important Concepts
-
-  - Functional & Class Components
-  - Controlled & Uncontrolled Components
-  - Event Handling & `this` in Class Components
-  - Keys in React Lists
-  - React Refs & DOM
-  - React Hooks & Custom Hooks
-  - Referencial equality
-  - Debouncing
-  - `dangerouslySetInnerHTML` & XSS Attacks -->
-
-## Modules
-
-- [Awesome React](https://github.com/enaqx/awesome-react)
-
-- [`create-react-app`](https://create-react-app.dev/)
-
-- [`prop-types`](https://reactjs.org/docs/typechecking-with-proptypes.html)
-
-- [React Router](https://reactrouter.com/)
-
-- [Storybook](https://storybook.js.org/)
-
-- [React Final Form](https://final-form.org/react)
-
-## State Management
-
-- [Redux](https://redux.js.org/)
-  - [Redux Toolkit](https://redux-toolkit.js.org/)
-  - [React Redux](https://react-redux.js.org/)
-
-- Recoil
-
-## UI Libraries
-
-- [Material UI](https://mui.com/)
+- [Modules - Awesome React](https://github.com/enaqx/awesome-react)
 
 # UI Resources
 

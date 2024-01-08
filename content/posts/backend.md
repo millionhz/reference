@@ -1,7 +1,7 @@
 ---
 title: "Backend Development"
 summary: A reference bank for backend development
-allies: "/backend"
+aliases: "/backend"
 weight: 30
 ---
 
