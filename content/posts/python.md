@@ -122,7 +122,7 @@ weight: 20
 
 - [File I/O](https://www.w3schools.com/python/python_ref_file.asp)
 
-- [Object Oriented Programming](https://docs.python.org/3/reference/datamodel.html)
+- [Python Objects (Data Model)](https://docs.python.org/3/reference/datamodel.html)
 
   - [OOP Basics](https://realpython.com/python3-object-oriented-programming/)
 
