@@ -29,6 +29,8 @@ weight: 10
 
 - [The Last Algorithms Course You'll Need - ThePrimeagen](https://theprimeagen.github.io/fem-algos/) ([course](https://frontendmasters.com/courses/algorithms/))
 
+- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
+
 ## Coding
 
 - [Programming Languages]({{< ref "/posts/programming-lang.md" >}})
