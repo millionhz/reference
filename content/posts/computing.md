@@ -121,6 +121,8 @@ weight: 10
 
 # Other Stuff
 
+- [Awesome Selfhosted](https://awesome-selfhosted.net/index.html)
+
 ## Free Stuff
 
 - [Free For Dev](https://free-for.dev/)
