@@ -123,6 +123,10 @@ weight: 10
 
 - [Awesome Selfhosted](https://awesome-selfhosted.net/index.html)
 
+## Regex
+
+- [Learn Regular Expressions - freeCodeCamp](https://www.youtube.com/watch?v=ZfQFUJhPqMM)
+
 ## Free Stuff
 
 - [Free For Dev](https://free-for.dev/)
