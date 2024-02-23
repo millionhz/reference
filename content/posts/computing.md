@@ -37,6 +37,8 @@ weight: 10
 
 - [The power of 10](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code)
 
+- [Awesome](https://github.com/sindresorhus/awesome)
+
 # Development Tools
 
 ## Git/Github
@@ -106,6 +108,10 @@ weight: 10
 ## Artificial Intelligence
 
 - [AI Reference]({{< ref "/posts/artificial-intelligence.md" >}})
+
+- [Machine Learning]({{< ref "/posts/artificial-intelligence.md#machine-learning" >}})
+
+- [Deep Learning]({{< ref "/posts/artificial-intelligence.md#deep-learning" >}})
 
 ## Data Science
 
