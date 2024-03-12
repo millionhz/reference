@@ -21,15 +21,6 @@ weight: 10
 
 - [scp - linuxize](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 
-## Data Structures & Algorithms
-
-- [Data Structure Recap](https://www.programiz.com/dsa/data-structure-types)
-
-- [Data Structure Notes](https://github.com/millionhz/data-structures-notes)
-
-- [The Last Algorithms Course You'll Need - ThePrimeagen](https://theprimeagen.github.io/fem-algos/) ([course](https://frontendmasters.com/courses/algorithms/))
-
-- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 
 ## Coding
 
@@ -82,6 +73,16 @@ weight: 10
 - vim
 
 # Concepts
+
+## Data Structures & Algorithms
+
+- [Data Structure Recap](https://www.programiz.com/dsa/data-structure-types)
+
+- [Data Structure Notes](https://github.com/millionhz/data-structures-notes)
+
+- [The Last Algorithms Course You'll Need - ThePrimeagen](https://theprimeagen.github.io/fem-algos/) ([course](https://frontendmasters.com/courses/algorithms/))
+
+- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 
 ## Systems Programming
 
