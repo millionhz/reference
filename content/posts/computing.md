@@ -76,7 +76,7 @@ weight: 10
 
 ## Data Structures & Algorithms
 
-- [Data Structure Recap](https://www.programiz.com/dsa/data-structure-types)
+- [Data Structure Recap](https://www.programiz.com/dsa/algorithm)
 
 - [Data Structure Notes](https://github.com/millionhz/data-structures-notes)
 
