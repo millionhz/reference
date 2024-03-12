@@ -74,6 +74,12 @@ weight: 10
 
 # Concepts
 
+## Object Oriented Programming
+
+- [Intro to Object Oriented Programming - Crash Course - freeCodeCamp](https://www.youtube.com/watch?v=SiBw7os-_zI)
+
+- [Design Patterns Elements of Reusable Object-Oriented Software](https://www.javier8a.com/itc/bd1/articulo.pdf)
+
 ## Data Structures & Algorithms
 
 - [Data Structure Recap](https://www.programiz.com/dsa/algorithm)
