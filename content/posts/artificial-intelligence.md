@@ -67,6 +67,10 @@ weight: 25
 
 - [Hugging Face](https://huggingface.co/)
 
+## LangChain
+
+- [LangChain](https://www.langchain.com/langchain)
+
 ## ChatGPT
 
 - [Prompt engineering for developers - deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) ([notes]({{< ref "/posts/chatgpt-prompt-engineering-for-developers.md" >}}))
