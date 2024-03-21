@@ -37,6 +37,10 @@ weight: 25
 
 - [LSTM is dead. Long Live Transformers! - Seattle Applied Deep Learning](https://www.youtube.com/watch?v=S27pHKBEp30)
 
+# Natural Language Processing
+
+- [SLP3 - Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
+
 # PyTorch
 
 - [Official Docs](https://pytorch.org/docs/stable/index.html)
