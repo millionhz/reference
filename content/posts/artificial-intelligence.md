@@ -9,7 +9,7 @@ weight: 25
 
 ## Theory
 
-- [Machine Learning by Dr Agha Ali Raza - youtube](https://www.youtube.com/playlist?list=PLnvLVSNZy9VLfLalXwCY0IasyKTKZboBQ) ([notes](https://www.c-salt.org/courses/machine-learning-f2021#h.xieqwmgaoci0))
+- [Machine Learning by Dr Agha Ali Raza - youtube](https://www.youtube.com/playlist?list=PLnvLVSNZy9VLfLalXwCY0IasyKTKZboBQ) ([website](https://www.c-salt.org/courses/machine-learning))
 
 - [StatQuest - youtube](https://www.youtube.com/@statquest)
 
