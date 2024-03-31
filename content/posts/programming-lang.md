@@ -97,7 +97,11 @@ weight: 15
 
 # Solidity
 
+- [Solidity Docs](https://docs.soliditylang.org/)
+
 - [Solidity Notes](https://github.com/millionhz/solidity-notes)
+
+- [Solidity by Example](https://solidity-by-example.org/)
 
 - [Solidity, Blockchain, and Smart Contract Course – Python - freeCodeCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
