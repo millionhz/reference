@@ -21,7 +21,6 @@ weight: 10
 
 - [scp - linuxize](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 
-
 ## Coding
 
 - [Programming Languages]({{< ref "/posts/programming-lang.md" >}})
@@ -131,6 +130,8 @@ weight: 10
 - [MITRE Database](https://attack.mitre.org/)
 
 - [Network Security Notes](https://millionhz.github.io/network-security-notes/)
+
+- [Hacktricks](https://book.hacktricks.xyz/)
 
 # Other Stuff
 
