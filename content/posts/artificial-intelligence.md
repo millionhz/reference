@@ -5,6 +5,10 @@ aliases: "/ai"
 weight: 25
 ---
 
+# AI Tools
+
+- [Toolify](https://www.toolify.ai/)
+
 # Machine Learning
 
 ## Theory
