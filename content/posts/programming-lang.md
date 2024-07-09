@@ -57,6 +57,7 @@ weight: 15
 
 # Markdown
 
+- [Markdown Guide](https://www.markdownguide.org/)
 - [Cheat Sheet by adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 - [GoAT Diagrams](https://github.com/bep/goat)
 
