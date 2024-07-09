@@ -5,6 +5,8 @@ aliases: "/backend"
 weight: 30
 ---
 
+<!-- Make a page for "Web Development" to include SSG and Web Frameworks like NextJs and Modern React-->
+
 # Static Site Generation
 
 ## Hugo
