@@ -26,8 +26,8 @@ weight: 40
 - [Intro to DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [MDN DOM Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 - [HTML DOM - w3schools](https://www.w3schools.com/js/js_htmldom.asp)
-- Dom Crash Course - Traversy Media ([p1](https://www.youtube.com/watch?v=0ik6X4DJKCc), [p2](https://www.youtube.com/watch?v=mPd2aJXCZ2g), [p3](https://www.youtube.com/watch?v=wK2cBMcDTss), [p4](https://www.youtube.com/watch?v=i37KVt_IcXw))
 - [Javascript DOM Manipulation Course - freeCodeCamp](https://www.youtube.com/watch?v=5fb2aPlgoys)
+- [jQuery API](https://api.jquery.com/)
 
 ## Web APIs
 
@@ -63,7 +63,6 @@ weight: 40
 
 # Common Modules
 
-- [jQuery](https://api.jquery.com/)
 - [cdnjs](https://cdnjs.com/)
 
 ## Bundler
