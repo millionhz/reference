@@ -19,6 +19,7 @@ weight: 30
 ## Other
 
 - [Vitepress](https://vitepress.dev/)
+- [MkDocs](https://www.mkdocs.org/)
 
 # Backend Frameworks
 
