@@ -59,6 +59,10 @@ weight: 30
 - [wesbos eslint config](https://github.com/wesbos/eslint-config-wesbos)
 - [airbnb eslint config](https://www.npmjs.com/package/eslint-config-airbnb)
 
+## Compiler
+
+- [babel](https://babeljs.io/)
+
 # Backend Modules
 
 - [Awesome NodeJs](https://github.com/sindresorhus/awesome-nodejs)
