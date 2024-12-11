@@ -13,9 +13,10 @@ weight: 10
 - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) ([video](https://www.youtube.com/watch?v=ZtqBQ68cfJc))
 - [Linuxize](https://linuxize.com/)
 
-## Secure Shell
+## SSH
 
-- [ssh - Microsoft](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_overview)
+- [ssh](https://linux.die.net/man/1/ssh)
+- [ssh_config](https://linux.die.net/man/5/ssh_config)
 - [scp - linuxize](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 
 ## Coding
