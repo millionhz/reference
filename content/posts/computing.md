@@ -98,6 +98,7 @@ weight: 10
 ## Data Science
 
 - [Statistics Notes - 365DataScience](https://365datascience.com/resources-center/course-notes/statistics/)
+- [PySpark Tutorial - freeCodeCamp](https://www.youtube.com/watch?v=_C8kWso4ne4)
 
 ## Cyber Security
 
