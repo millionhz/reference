@@ -8,6 +8,7 @@ weight: 25
 # AI Tools
 
 - [Toolify](https://www.toolify.ai/)
+- [GitIngest](https://gitingest.com/)
 
 # Machine Learning
 
