@@ -11,7 +11,9 @@ weight: 20
 
 - [Python Docs](https://docs.python.org/3/)
 
-- [Python Reference](https://docs.python.org/3/reference/)
+- [Python Standard Library (Reference)](https://docs.python.org/3/library/index.html)
+
+- [Python Syntax](https://docs.python.org/3/reference/)
 
 - [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide
 
