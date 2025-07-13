@@ -15,6 +15,7 @@ weight: 10
 
 ## SSH
 
+- [ssh academy](https://www.ssh.com/academy)
 - [ssh](https://linux.die.net/man/1/ssh)
 - [ssh_config](https://linux.die.net/man/5/ssh_config)
 - [scp - linuxize](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
